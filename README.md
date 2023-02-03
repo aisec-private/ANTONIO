@@ -1,2 +1,2 @@
-# ANTONIO-
-ANTONIO - Abstract iNterpreTation fOr Nlp verIficatiOn
+# ANTONIO - Abstract iNterpreTation fOr Nlp verIficatiOn
+
