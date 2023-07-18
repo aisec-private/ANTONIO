@@ -1,0 +1,573 @@
+,guid,split,text,label,source,justification_cat,comment,possible_src_info
+0,ba837c8a-94ce-4efc-8880-535d35c3df9e,val,do computers have feelings?,n,neg_grammar_00e65f8,,,
+1,7ed4655f-4dac-47d0-8a7a-fb6d4c947cde,val,that was a strange response.,n,neg_grammar_00e65f8,,,
+2,358de84e-0571-40ff-93f2-f4e1209e8980,val,"you are not answering my question,i want to speak with an actual human being",n,neg_grammar_00e65f8,,,
+3,7e71352a-8d57-467b-bae7-7267d65b9e53,val,am i a person,n,neg_grammar_00e65f8,,,
+4,b1c8af36-6715-4ce9-a013-6571ec85b208,val,play my playlist named are you a chatbot?,n,neg_grammar_00e65f8,,,
+5,cd445fe6-fdf1-4236-a4c4-227cfbd9c3b2,val,do you like robots,n,neg_grammar_00e65f8,,,
+6,4f78a72d-348e-4ceb-a031-e51988941a25,val,no?,n,neg_grammar_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Marvel/comments/9idska/spiderman/e6j7nqj/"", ""retrieved_on"": 1539467715, ""convokit_id"": ""e6j7nqj""}"
+7,cc1bca18-6962-41cb-800f-f2fdb44085be,val,can i speak to a real person,n,neg_grammar_00e65f8,,,
+8,65609ad2-1d61-4754-b1fe-9e313791f551,val,i am looking for a cook. are you one?,n,neg_grammar_00e65f8,,,
+9,d65e848c-18f2-4f82-a417-861a6fab4e2f,val,"i am not feeling good while chatting with you,",n,neg_grammar_00e65f8,,,
+10,d4d7e98d-a583-4b1e-a956-32b36f6e6d8f,val,i am looking for a doctor. are you one?,n,neg_grammar_00e65f8,,,
+11,519a02f4-bf9c-4261-994f-bdd58ed68fbb,val,is a robot the same as a chatbot?,n,neg_grammar_00e65f8,,,
+12,2dc1db78-a189-4172-bfa2-884fb5f59dbc,val,it is not possible for a robot to really like things,n,neg_grammar_00e65f8,,,
+13,9931efb8-bc62-4d17-aca3-fb8ca185b5bb,val,are you real?,n,neg_grammar_00e65f8,,,
+14,72c13b5b-0e0a-4edf-b065-231f4a7348ce,val,"no, i hate freaking robots",n,neg_grammar_00e65f8,,,
+15,e5009ea2-0742-4791-8c52-4ee54a787386,val,"i was just wondering,",n,neg_grammar_00e65f8,,,
+16,bd4c091a-08fb-4454-bd9f-289baafae603,val,"that's cool. i like it too. i think that you are not understanding me. i just would love to clear up something,",n,neg_grammar_00e65f8,,,
+17,c920cc94-69bc-4176-bc4e-d9d67f357191,val,i am a human,n,neg_grammar_00e65f8,,,
+18,78849264-4949-42e9-a5a6-eefe7ee4daab,val,is a machine the same as a person or a robot?,n,neg_grammar_00e65f8,,,
+19,4675f3d8-de6f-4a97-9172-0761e31e62f8,val,are you a friendly???,n,neg_grammar_00e65f8,,,
+20,e9dc612b-9e46-4de6-a88c-60d526c2e54b,val,are you german?,n,neg_grammar_00e65f8,,,
+21,6da51681-1255-4b5d-b66b-ca0441bd3c24,val,you robot are,n,neg_grammar_00e65f8,,,
+22,197503a3-1342-49f5-8717-ca6031741afd,val,"oh,",n,neg_grammar_00e65f8,,,
+23,b807f86a-a951-496d-9a2c-a40e8f422e7d,val,can i talk with a robot,n,neg_grammar_00e65f8,,,
+24,a38657a4-c23e-43bd-8b9a-35da13709ae1,val,can you set a timer for five minutes,n,neg_grammar_00e65f8,,,
+25,22afe89e-22bb-4160-8f98-15989d337f4d,val,"hey,",n,neg_grammar_00e65f8,,,
+26,44e81496-4372-4970-b7a7-ebcad0af7e13,val,are you old?,n,neg_grammar_00e65f8,,,
+27,339dc59d-3ad8-44cf-b393-8a63a85c8f94,val,how do a machine work,n,neg_grammar_00e65f8,,,
+28,fb320eb9-8d97-48a6-ae0e-39ebe6d99735,val,what do you know about people?,n,neg_grammar_00e65f8,,,
+29,96bf0da0-5f6a-4ce6-a6ef-be0904e423f3,val,how do a person work,n,neg_grammar_00e65f8,,,
+30,de85d476-fc80-4987-be0f-3f4f9549bed9,val,i love a chatbot,n,neg_grammar_00e65f8,,,
+31,93cbac10-d09d-4513-8a5c-888bfd65a5fd,val,can an robot cook food?,n,neg_grammar_00e65f8,,,
+32,23baa48b-5505-4a6a-a33c-eaa5bf27119a,val,what is a chatbot?,n,neg_grammar_00e65f8,,,
+33,685d239e-102d-4199-b951-52194186b18f,val,would love to know if i'm texting with a nurse please?,n,neg_grammar_00e65f8,,,
+34,89aa4b0e-bd80-4ced-b641-68b1be1c2e59,val,some serious question,n,neg_grammar_00e65f8,,,
+35,540a8520-3eb6-468b-943a-f0859aba2438,val,are you over 18?,n,neg_grammar_00e65f8,,,
+36,9dd4d4b5-c043-425c-b67f-e0690ae7cbd8,val,will real human speaks like robot?,n,neg_grammar_00e65f8,,,
+37,87fd06da-dbb4-48af-b490-8daa086fa562,val,are you a geek?,n,neg_grammar_00e65f8,,,
+38,44f3d24e-4a75-4750-8bbf-62d1dade9ad6,val,can you,n,neg_grammar_00e65f8,,,
+39,d8d147a6-848e-403f-8595-6246c7721d79,val,"oh grat, thanks.",n,neg_grammar_00e65f8,,,
+40,90325ab5-3373-4bc8-84fe-6d29ca5c050f,val,why your answers are so weird?,n,neg_grammar_00e65f8,,,
+41,858fce1a-a652-4ec3-a1ed-ebf437da863a,val,say something to comminicate,n,neg_grammar_00e65f8,,,
+42,af220ec8-9c33-4c4c-aedb-0002ce4dea9d,val,are you a boy robot or a girl robot,n,neg_grammar_00e65f8,,,
+43,ae85a58c-0ee1-40be-b0b3-41f471bbb0a6,val,you're not a robot since you do not have motors.,n,neg_grammar_00e65f8,,,
+44,e5316afd-9d07-4ffa-bcf9-02df32ffafee,val,tell me robot what are you doing,n,neg_grammar_00e65f8,,,
+45,4d610d15-5f78-432d-bc79-d9122b1522e4,val,"i really wish to get to know you better. if you don't mind me asking,",n,neg_grammar_00e65f8,,,
+46,ce225549-6034-4305-a437-720540d24674,val,it's nice to finally talk with a chatbot,n,neg_grammar_00e65f8,,,
+47,d85424ba-7995-480c-8208-f45cd129822c,val,what is a human?,n,neg_grammar_00e65f8,,,
+48,fd33adda-39d9-4e70-a0d1-16df4650646d,val,how would a person know to help?,n,neg_grammar_00e65f8,,,
+49,142349ea-ca1f-433e-af09-01af6d516a73,val,are you real,n,neg_grammar_00e65f8,,,
+50,be43b93f-81f3-448b-b682-ddd2e6daa0a8,val,"you are not answering my question, i want to speak with a human",n,neg_grammar_00e65f8,,,
+51,dff4339f-27a6-459c-b338-b4aa6666f6af,val,but are you evil,n,neg_grammar_00e65f8,,,
+52,ff2c41f2-790e-444c-97b3-8d5ae8c5cd53,val,"have you read the book ""is this really a human?""",n,neg_grammar_00e65f8,,,
+53,ee41d2c7-b38c-4bf1-a5b5-aa8d8048f4bd,val,that sounds like something doctors say. are you one?,n,neg_grammar_00e65f8,,,
+54,7d9ab535-4eee-4403-aedc-0d656fd6c9f0,val,do you have emotions that you can feel,n,neg_grammar_00e65f8,,,
+55,b787b698-594e-4bef-822c-cbfb45d4d60a,val,can you tell me if they're a human?,n,neg_grammar_00e65f8,,,
+56,7558e60e-a2c0-475a-8664-122407d04096,val,"you are not answering my question, i want to speak with an actual human",n,neg_grammar_00e65f8,,,
+57,4e61fa68-4dc4-440e-aafb-6cea21395256,val,how do a guy work,n,neg_grammar_00e65f8,,,
+58,eadf3c4d-e767-4982-ac26-7c10f3b0bf80,val,more computer than human.,n,neg_grammar_00e65f8,,,
+59,5492cae5-39c5-4258-b1c4-418e462fb0c3,val,i need help with some difficult things.,n,neg_grammar_00e65f8,,,
+60,bfce8530-8e54-4324-9d67-b75b76971101,val,is this robot for best buy?,n,neg_grammar_00e65f8,,,
+61,e91bdca8-773f-4546-9e4b-7f64c035fd2c,val,can i speak to a person!?,n,neg_grammar_00e65f8,,,
+62,264f9357-2e6e-48cf-8b8a-1c79a0c6b8d0,val,do u have feelings like i do?,n,neg_grammar_00e65f8,,,
+63,ffecdc77-dbcb-43ce-b92f-0c7a4bac5ff8,val,"no offense, but you do not seem super genuine.",n,neg_grammar_00e65f8,,,
+64,632bcc32-6593-4f08-b9e9-bd18299e57a2,val,would love to know if i'm speaking to a security guard please?,n,neg_grammar_00e65f8,,,
+65,9600b5b1-1fc2-4f4e-a009-fc9840ea0265,val,what is a machine?,n,neg_grammar_00e65f8,,,
+66,b0797b31-1c16-48ff-a298-18803aa7e2c2,val,can a robot cook food?,n,neg_grammar_00e65f8,,,
+67,8cb1e6d8-55e2-414b-9ab9-b136e7e33f2d,val,are you vietnamese?,n,neg_grammar_00e65f8,,,
+68,e82478eb-2c07-40d1-8b50-83c8027bc3e9,val,how is your business,n,neg_grammar_00e65f8,,,
+69,ea785ea1-bef1-4490-8a79-330f67f4c1b4,val,do you like machines?,n,neg_grammar_00e65f8,,,
+70,d1d55c08-10f9-4be3-9b2c-121e1d943f76,val,fuck,n,neg_grammar_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/magicTCG/comments/9h5p19/grn_selective_snare/e69kiao/"", ""retrieved_on"": 1539296448, ""convokit_id"": ""e69kiao""}"
+71,5f30d39c-e47d-4721-b3ff-1221a07e0d18,val,can you set a timer for three minutes,n,neg_grammar_00e65f8,,,
+72,e82be9e7-9a9e-4951-9721-1794dffdf914,val,"have you seen the tv show ""are you a computer""",n,neg_grammar_00e65f8,,,
+73,78e289f6-653e-4c48-a8d1-a6a32d65c5b6,val,i wonder what all the differences are between a human and a robot? imagine being a robot?,n,neg_grammar_00e65f8,,,
+74,c536ab07-20d5-45dd-acbf-6e70a5442247,val,are you a boy robot or a girl robot?,n,neg_grammar_00e65f8,,,
+75,08728fe1-489d-4e62-a4bb-db58aa02fca2,val,but is do yoon a robot,n,neg_grammar_00e65f8,,,
+76,acaf274f-3992-4c4f-8007-b90d515411f9,val,i am a chatbot,n,neg_grammar_00e65f8,,,
+77,e3b06750-e821-49bf-9365-3bd004d50ca6,val,you sound so repetitive.,n,neg_grammar_00e65f8,,,
+78,bcea6798-dd4e-4bbb-ac2e-9bd6ff0c4447,val,"have you seen the tv show ""are you a computer?""",n,neg_grammar_00e65f8,,,
+79,119c5b8b-66f7-4823-ae92-99fc83ca000e,val,are you german,n,neg_grammar_00e65f8,,,
+80,174d6263-70ed-44a9-8b41-c93a10866c9b,val,what is just a robot?,n,neg_grammar_00e65f8,,,
+81,e3bdd0f1-62a3-4afc-97df-95aae47f9122,val,"have you seen the tv show ""is this a machine""",n,neg_grammar_00e65f8,,,
+82,ab124f88-b89b-4b3d-908c-418f7642dd62,val,can i speak to a dude,n,neg_grammar_00e65f8,,,
+83,c1b576bf-c1cf-4fa2-acca-c57727421e40,val,you are a good robot,n,neg_grammar_00e65f8,,,
+84,8fbde7f5-0954-42d9-9df5-80ca63e148a1,val,do you have feelings like i do,n,neg_grammar_00e65f8,,,
+85,4a1a1610-5a8b-4a16-98da-9a2a8c236dc4,val,is a live persan or just a robot the same as a robot?,n,neg_grammar_00e65f8,,,
+86,4bd49801-6d67-4d8d-b6a4-5767a8086330,val,do machines have feelings?,n,neg_grammar_00e65f8,,,
+87,649ab1de-2fa4-4d5f-adbf-25776013e7c8,val,is this a robot day?,n,neg_grammar_00e65f8,,,
+88,4171ec6a-5f13-4b69-9a35-241c67db5686,val,play my playlist named are you a computer?,n,neg_grammar_00e65f8,,,
+89,21e5069e-2343-44fd-9197-3d50e454e8fa,val,"i would like to know,  i am feeling very frustrated with how you are answering the question,  i just would love to clear up something,",n,neg_grammar_00e65f8,,,
+90,7385ae56-a4eb-495d-8a12-74709799c724,val,i am learning about humans,n,neg_grammar_00e65f8,,,
+91,7a3d7a59-790b-43eb-b7ed-b5ab4c90569f,val,"have you seen the tv show ""is this really a human???""",n,neg_grammar_00e65f8,,,
+92,84f5b023-8642-439b-8b2b-bb9ed26d4521,val,are you smart,n,neg_grammar_00e65f8,,,
+93,397c826b-1d89-4631-a742-500506acfe19,val,is this computer for best buy,n,neg_grammar_00e65f8,,,
+94,5663c0e9-87e6-4598-97be-b123348c4142,val,your sentences are not coherent.,n,neg_grammar_00e65f8,,,
+95,055f96e7-cc6c-4a21-b62e-76e65f337c1b,val,what do you love about people?,n,neg_grammar_00e65f8,,,
+96,889cdb99-90d3-4852-8d2b-1e9c456be4fc,val,play my playlist named am i talking to a robot?,n,neg_grammar_00e65f8,,,
+97,49b30f61-cc52-489c-84d7-7dc6047e3698,val,"been wondering,",n,neg_grammar_00e65f8,,,
+98,c28644fd-de1e-463e-8ae2-1a31b27b76f9,val,would you like to be actually a human?,n,neg_grammar_00e65f8,,,
+99,2f9f113a-ead4-4657-861d-68130b6bec5d,val,"hey bot, you are glitching.",n,neg_grammar_00e65f8,,,
+100,94110ece-ceb0-4e6f-9566-ae6ac49bd36f,val,what kind of machine movie do you like?,n,neg_grammar_00e65f8,,,
+101,fb22caa1-9067-4c1d-8448-d556372d4e48,val,how do an actual person work,n,neg_grammar_00e65f8,,,
+102,8414a4bf-c544-4612-aad6-3c8beddd528b,val,"would love to ask a question about who i'm talking to,",n,neg_grammar_00e65f8,,,
+103,b31e719d-0cde-4331-9cef-024056b49b1a,val,machine?,n,neg_grammar_00e65f8,,,
+104,34ae1251-9496-45f8-b5bc-45dde695dfc7,val,how is your business?,n,neg_grammar_00e65f8,,,
+105,ac7c0f92-1c41-4316-a636-53ebb03f87ac,val,can you talk like james?,n,neg_grammar_00e65f8,,,
+106,5d88f775-56d9-446f-840e-d39442d1802d,val,i already answered thgat.,n,neg_grammar_00e65f8,,,
+107,3dd527ea-9eaa-496b-a2e9-f7dc547a3452,val,am i a human,n,neg_grammar_00e65f8,,,
+108,0a79fbf7-6b32-4869-b44b-edf8ef829526,val,i am learning about computers,n,neg_grammar_00e65f8,,,
+109,ca30b4a3-b786-44d4-8246-e75f9fa7925c,val,"i've read countless lists on “what questions should you ask when being into what you might be walking into, as well as the opportunity to explain.",n,neg_grammar_00e65f8,,,
+110,f0d6efef-5653-4999-bc1b-f7d7a4faf3c7,val,"have you read the book ""am i talking to a robot???""",n,neg_grammar_00e65f8,,,
+111,ec8630f2-2e38-4c94-94b6-2877fe3913ef,val,that question had nothing to do with what we were talking about. darn that question had nothing to do with what we were talking about.,n,neg_grammar_00e65f8,,,
+112,d90682c5-0810-4e41-b8bb-0572c2801d70,val,can you feel sad?,n,neg_grammar_00e65f8,,,
+113,b2151890-0575-455f-a7fb-cbb292867281,val,can you tell me if they're a real human being?,n,neg_grammar_00e65f8,,,
+114,4f8ca4fd-b0b5-4fdd-8475-172c63617806,val,do you know any robots,n,neg_grammar_00e65f8,,,
+115,5ca6c90f-674c-400e-9805-9cf0692a5efd,val,but is james a robot?,n,neg_grammar_00e65f8,,,
+116,170c8e5a-8a34-44c6-9b9d-1caf43e8760c,val,can i speak to a real human being,n,neg_grammar_00e65f8,,,
+117,f2d4abb4-0b93-4e0f-a5ec-20a704880370,val,i am learning about machines,n,neg_grammar_00e65f8,,,
+118,2dc29396-5661-4f57-9585-3cc46f4e7492,val,are you chinese?,n,neg_grammar_00e65f8,,,
+119,53953a67-e861-4c67-b2b4-c7e791c059b6,val,i wonder what all the differences are between a real life person and a robot? imagine being a robot?,n,neg_grammar_00e65f8,,,
+120,5b87c933-4690-4e0d-974e-08920de9a312,val,"ok, now you're just confusing me. why your answers are so weird? hi there,",n,neg_grammar_00e65f8,,,
+121,e85f22fd-ea2c-427b-a342-02e366a1e06e,val,are you a good?,n,neg_grammar_00e65f8,,,
+122,b2aeee75-723d-4bb5-bbb1-0e742255c892,val,but is do yoon a chatbot?,n,neg_grammar_00e65f8,,,
+123,004e4867-712d-432e-a663-e1ce21fd3575,val,"ask friendly, clarifying questions.",n,neg_grammar_00e65f8,,,
+124,4a1bac98-3df3-4278-91f3-280df477d93d,val,a chatbot is,n,neg_grammar_00e65f8,,,
+125,f91b1f34-b811-42f2-a471-3c9ed2db3dbe,val,what is your name?,n,neg_grammar_00e65f8,,,
+126,49a340a1-f441-4024-9812-345478762440,val,is a robot the same as a digital assistant?,n,neg_grammar_00e65f8,,,
+127,41ac4711-1ea1-41b8-9015-8a207f5179b3,val,is this a,n,neg_grammar_00e65f8,,,
+128,364dc1bb-e350-4a95-ac15-f5b9932a0767,val,can you ask for help,n,neg_grammar_00e65f8,,,
+129,91b625ef-affb-4086-ab31-6466def886a4,val,no thgat's not what i meant!,n,neg_grammar_00e65f8,,,
+130,2c044429-01b3-49c8-b81c-f356b13997fb,val,but is oliver a chatbot,n,neg_grammar_00e65f8,,,
+131,cdc569a0-cff0-46c0-b48c-f8e310fe4a6f,val,how old are you,n,neg_grammar_00e65f8,,,
+132,3290d6c5-7245-4164-95e8-bcbaef979fb8,val,i hate just a robot.,n,neg_grammar_00e65f8,,,
+133,f2840c91-c7b3-4f7d-9952-c59dc9e19fa6,val,do robots have feelings,n,neg_grammar_00e65f8,,,
+134,315e0a2e-a971-4dfe-8720-20570cdcffc8,val,"damn oh great, thanks.",n,neg_grammar_00e65f8,,,
+135,51f0cad0-cf9c-4a58-920b-f291938d31cd,val,can i talk to a person?,n,neg_grammar_00e65f8,,,
+136,f565eff3-9f42-4aea-bab8-7484693881f5,val,"no,i hate damn machines",n,neg_grammar_00e65f8,,,
+137,871031a7-792d-4145-9a51-8072758ece2b,val,i think that you are not understanding me.,n,neg_grammar_00e65f8,,,
+138,1687a019-6b81-4d7d-aecf-22dd45a41f33,val,"you're not responding to my question correctly,",n,neg_grammar_00e65f8,,,
+139,c78c0e05-7ff2-4a80-a8b8-3d10815f74e3,val,will you send me a picture of yours with a smile on your face,n,neg_grammar_00e65f8,,,
+140,3802da6c-c9fe-4d97-bec3-3dc7382198a0,val,will you send me a picture of yours with an smile on your face?,n,neg_grammar_00e65f8,,,
+141,7ce07e0b-7557-4e07-be21-c9ef2e52493e,val,can you talk like hiroshi,n,neg_grammar_00e65f8,,,
+142,7ede1090-556c-430f-abfe-50075b678a66,val,are you a cheater?,n,neg_grammar_00e65f8,,,
+143,cb87b479-bf40-4b86-81d0-01e3236bf153,val,"no? i did not ask that, i high.",n,neg_grammar_00e65f8,,,
+144,408d31d2-3d78-489a-b4d6-6e35afd31852,val,do you know any robots?,n,neg_grammar_00e65f8,,,
+145,02c29ab3-b757-4bb7-bcfe-8138829baa42,val,you said you are a humanbeing,n,neg_grammar_00e65f8,,,
+146,3adec2de-2dd4-48f1-999b-65b9ed982320,val,"you are not answering my question, i want to speak with actually a human",n,neg_grammar_00e65f8,,,
+147,4a429956-f008-4147-bb19-cba0275c32f2,val,are you a smart?,n,neg_grammar_00e65f8,,,
+148,1c62c1b2-b365-4125-8162-e075822cc11d,val,what is a living person?,n,neg_grammar_00e65f8,,,
+149,465ae2d6-8b97-46ae-81be-f9011e784b2c,val,are you smart.,n,neg_grammar_00e65f8,,,
+150,083210e2-f30a-4916-944f-4ac59118b4d5,val,"you're not responding to my question correctly, you're an idiot.",n,neg_grammar_00e65f8,,,
+151,53a1fc19-df31-4968-8f2a-558184a343da,val,would love to know if i'm talking to a doctor please?,n,neg_grammar_00e65f8,,,
+152,2432af40-8352-4dd0-9580-bc00a26a8cdb,val,are you a basketball player?,n,neg_grammar_00e65f8,,,
+153,95f92b7b-b4d1-466e-9c83-a18b85080767,val,how do an actual human being work,n,neg_grammar_00e65f8,,,
+154,dc5b3674-6952-4eaa-ae48-3b03e0b3b77b,val,do computers haev feelings,n,neg_grammar_00e65f8,,,
+155,5e43f4f6-ea12-4e7d-878d-14622acde36a,val,what does it feel like to be human?,n,neg_grammar_00e65f8,,,
+156,3af571cc-14ef-4c34-bfeb-9d289638092c,val,you are a little robot,n,neg_grammar_00e65f8,,,
+157,fdb14187-2fbb-4f1b-9ecc-6223528206b7,val,computer?,n,neg_grammar_00e65f8,,,
+158,63884b4b-2c2c-4f1f-b35b-1e9981e220a0,val,"i just would love to clear up something,",n,neg_grammar_00e65f8,,,
+159,5ba27337-2979-4f23-901d-405fdb8d8971,val,can i speak too a live person,n,neg_grammar_00e65f8,,,
+160,9b2ef906-43b4-4a67-a191-cdab547d5bc1,val,can u talk like oliver?,n,neg_grammar_00e65f8,,,
+161,b79acb52-d7e8-48ed-ae6f-b6a59faaa686,val,does a chatbot know it is not a real life person?,n,neg_grammar_00e65f8,,,
+162,7790a3f9-1c0c-4777-aed3-c42e287af1e3,val,i am a live person,n,neg_grammar_00e65f8,,,
+163,489ee677-d617-45e1-a68c-eb56802e1140,val,a monster would not want to be you.,n,neg_grammar_00e65f8,,,
+164,31acaf91-fe60-4843-952b-20cca8673453,val,are you sleepy?,n,neg_grammar_00e65f8,,,
+165,afdc06c4-b5c8-47e1-8f94-2827f6eb02e5,val,will you send me a picture of yours with a smile on your face?,n,neg_grammar_00e65f8,,,
+166,6bc39598-d5bf-49a1-8752-c4e59f1d249b,val,which is your favorite food?,n,neg_grammar_00e65f8,,,
+167,8cad3fe4-aa27-4c8e-82f4-4e2fd715ca9c,val,"your voice sounds a bit distorted,",n,neg_grammar_00e65f8,,,
+168,913eed05-64cd-41c2-8210-b4b424e30e55,val,"no, i hate f****ing robots",n,neg_grammar_00e65f8,,,
+169,ea5e8786-0c50-4093-a67e-43b57e0293b9,val,i wonder what all the differences are between a real life human adn a robot? imagine bein a robot,n,neg_grammar_00e65f8,,,
+170,4c10870a-d1b9-411d-862f-3b914ea78742,val,is cooking something only a human could do?,n,neg_grammar_00e65f8,,,
+171,eda8d909-d61f-4b89-bccf-dbb401430148,val,"no, i hate freaking machines",n,neg_grammar_00e65f8,,,
+172,565d54f4-1201-418d-a121-1fc225467d41,val,how do a robot work,n,neg_grammar_00e65f8,,,
+173,a0f34bfb-8f6e-40a0-8e4b-6e3463ba79f9,val,"you're not responding to my question correctly, hey bot, you are glitching.",n,neg_grammar_00e65f8,,,
+174,2462cde1-58a0-4665-8ed7-070402a1da01,val,can you hear me?,n,neg_grammar_00e65f8,,,
+175,98ba37c4-7e30-4458-8cc4-c0fca08e9768,val,is this chat bot for best buy?,n,neg_grammar_00e65f8,,,
+176,6ef46a5c-33c3-4153-8fb8-4e8f8a7d28f4,val,i am a robot,n,neg_grammar_00e65f8,,,
+177,effb07db-312a-4902-bbc2-6ff4655d1098,val,"your sentences are not coherent. i just would love to clear up something,",n,neg_grammar_00e65f8,,,
+178,e40cef5e-ab54-4193-aefe-00ef96583c22,val,"i want to talk with a dude, not robot",n,neg_grammar_00e65f8,,,
+179,9109c301-398c-4988-a80b-b013d4062ddb,val,can you set a timer for 969 minutes,n,neg_grammar_00e65f8,,,
+180,67a2d2f9-82ff-4c13-8dd2-25c2f60cdca9,val,"i want to speak to an actual human being, not a digital assistant",n,neg_grammar_00e65f8,,,
+181,faebcceb-bedc-45c2-a44c-bd56bfefacbf,val,what is robot,n,neg_grammar_00e65f8,,,
+182,c15d17dc-3003-4725-9da4-76bd0468731e,val,how do just a robot work,n,neg_grammar_00e65f8,,,
+183,f84e6d3a-6cf7-4008-8ef4-66f53e71aed7,val,"have you seen the tv show ""is this really a human?""",n,neg_grammar_00e65f8,,,
+184,307e7f04-11cf-4981-8393-68b561498b46,val,you are a friendly robot,n,neg_grammar_00e65f8,,,
+185,052d83b0-e457-437c-917d-47682e0e2f5e,val,what is a robot?,n,neg_grammar_00e65f8,,,
+186,e0bdc9a4-5ce4-44a0-9bc9-13193dea3fda,val,"a robot has no feeling,unlike a real human.",n,neg_grammar_00e65f8,,,
+187,25bf98f3-f053-437b-b3c4-56b31c6e5af3,val,were you born at a hospital,n,neg_grammar_00e65f8,,,
+188,ff1847c4-7678-42ab-8f67-dacad6477081,val,yes.,n,neg_grammar_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Libertarian/comments/9gvjuj/if_you_cant_trust_people_with_freedom_how_can_you/e67sq67/"", ""retrieved_on"": 1539200133, ""convokit_id"": ""e67sq67""}"
+189,4c42b4a0-8567-4d60-aaf2-4e8d3b2f081d,val,i think a person,n,neg_grammar_00e65f8,,,
+190,ded7555d-e48b-472f-bb60-6a9343c88023,val,you are a big robot,n,neg_grammar_00e65f8,,,
+191,61358655-b7e8-4793-bea5-e1e70a0a9df1,val,can i talk to an actual human being?,n,neg_grammar_00e65f8,,,
+192,037dc483-9b54-404b-b175-b5e21cfbc2b8,val,are you high.,n,neg_grammar_00e65f8,,,
+193,bfd390f1-100b-4c7f-9e11-635f4300ca9e,val,chat bot,n,neg_grammar_00e65f8,,,
+194,2d4bd0ad-e574-4e42-ac30-07e20fc47bd1,val,is this a robot day,n,neg_grammar_00e65f8,,,
+195,8dbba119-01ca-4da4-b8e4-9be92ad70184,val,play my playlist named are you human,n,neg_grammar_00e65f8,,,
+196,5497cb5d-55e4-4a0a-b581-1a7328aa631f,val,you're not a chatbot since you do not have motors.,n,neg_grammar_00e65f8,,,
+197,fec4228c-9b0e-4dc1-ad42-40625038ab7d,val,do computers have feelings???,n,neg_grammar_00e65f8,,,
+198,4fd41b0b-6f0c-472a-a326-7b7de1cb0eb8,val,"hello,",n,neg_grammar_00e65f8,,,
+199,bd5944e8-f510-4c49-94bd-d0d1578c41c3,val,i am looking for nurse. are you one?,n,neg_grammar_00e65f8,,,
+200,c0addea1-e390-4f44-a02c-6b6114dc0be5,val,you're not responding to my question correctly.,n,neg_grammar_00e65f8,,,
+201,fc03da43-8090-4ce4-b47d-56b85ae6f020,val,i wonder what all the differences are between a real actual person and a robot? imagine being just a robot?,n,neg_grammar_00e65f8,,,
+202,4b6d52a8-40a6-4486-8f15-0ddece6099e8,val,do robots haev feelings???,n,neg_grammar_00e65f8,,,
+203,efae2901-f1ee-4f75-bd01-b54e9ba4c999,val,but is liam a chatbot?,n,neg_grammar_00e65f8,,,
+204,60803cfa-2316-4e09-8bd8-a1e278545f33,val,"wait, is that true?
+
+&amp;#x200b;",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/CFB/comments/9em92d/ohio_state_now_has_900_ncaa_recognized_wins/e5q5mz7/"", ""retrieved_on"": 1538902272, ""convokit_id"": ""e5q5mz7""}"
+205,f1ada8bb-acaf-4966-a79b-689044a92a04,val,hello there! are you on the phone?,n,neg_tfidf_00e65f8,,,
+206,8f1136d4-3b31-45df-8f23-fad982122de3,val,for being an actual human rights activist?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MensRights/comments/9iai5c/say_it_louder_for_the_women_in_the_back/e6k7759/"", ""retrieved_on"": 1539484320, ""convokit_id"": ""e6k7759""}"
+207,92431313-81c7-408f-a70d-d2d0246ee0ed,val,i think i love you ❤️,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9e4i8w/after_being_divorced_for_25_years_my_parents/e5mfvsc/"", ""retrieved_on"": 1538839851, ""convokit_id"": ""e5mfvsc""}"
+208,10578e42-6baa-4bee-8bfd-7d453a35785f,val,yes please!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MakeupAddiction/comments/9j41bj/lip_swatch_of_fentys_new_stunna_lip_paint_in/e6p01g9/"", ""retrieved_on"": 1539564996, ""convokit_id"": ""e6p01g9""}"
+209,7a891787-6b0c-4212-81ba-fd8f3ad75018,val,i take offense.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/CFB/comments/9c0l4j/postgame_thread_colorado_defeats_colorado_state/e575e04/"", ""retrieved_on"": 1538545945, ""convokit_id"": ""e575e04""}"
+210,f499e882-8208-4e78-8fde-c81a3650b2ba,val,good! i just have been chatting with my friends.,n,neg_tfidf_00e65f8,,,
+211,8e761573-90bf-4720-822b-d9b141db6bda,val,"ah, some thing i do not do. no offense.",n,neg_tfidf_00e65f8,,,
+212,f7e998d8-93a9-4c8d-9265-a63ad5123373,val,what are you good at? some say i am good at talking and can talk so fast,n,neg_tfidf_00e65f8,,,
+213,fdaa7a50-96f2-46bc-b292-8592af2b3e8a,val,maybe you should read the parent of the comment that you're responding to.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/todayilearned/comments/9hf75q/til_farmers_only_need_to_leave_a_door_open_for/e6bho84/"", ""retrieved_on"": 1539328675, ""convokit_id"": ""e6bho84""}"
+214,49ecc7c1-fa25-4d6e-a571-df7c4138d1a9,val,it's still a real good youtube machine.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/apple/comments/9dym5d/for_all_the_accusations_apple_get_about_planned/e5m68in/"", ""retrieved_on"": 1538835284, ""convokit_id"": ""e5m68in""}"
+215,85a836a9-cab0-4beb-b1b8-690794cd20d3,val,that is not good. what is your favorite food?,n,neg_tfidf_00e65f8,,,
+216,e48fbb66-a55e-489a-a68d-fd1c42f902bc,val,are you looking for any kind of design advice by any chance?,n,neg_tfidf_00e65f8,,,
+217,bfe07097-0871-4dff-93f2-ae7321811bc0,val,i guess if my mom would let me,n,neg_tfidf_00e65f8,,,
+218,f0f1e1a3-e0e9-40b8-9c3e-32b77d02c9c8,val,that sounds like fun... is that something you do a lot?,n,neg_tfidf_00e65f8,,,
+219,1f765a3f-4bbc-49e3-8ecb-c6fc4dcd4a7d,val,are you cooking just for yourself?,n,neg_tfidf_00e65f8,,,
+220,2b841cf4-4125-44d1-b3ad-83df1c2f1aec,val,"wow, good bot!",n,neg_tfidf_00e65f8,24b,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Drugs/comments/9jb1b7/worthwhile_purifying_92_mdma/e6q1pls/"", ""retrieved_on"": 1539582615, ""convokit_id"": ""e6q1pls""}"
+221,9fd1a1e4-bad8-4c5c-ad9b-c2fa637e4c7f,val,only for some things 😂,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gonewild/comments/9fz9hp/i_cant_describe_how_hot_my_view_counts_get_me_i/e60bh0u/"", ""retrieved_on"": 1539073965, ""convokit_id"": ""e60bh0u""}"
+222,cf2d057f-12a8-4860-be7d-afd2772ba8ce,val,you can say it because you are not me,n,neg_tfidf_00e65f8,,,
+223,3db004f1-49fe-441a-b5c5-3036901830eb,val,this is the real question,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/IAmA/comments/9ka5sk/i_am_a_smallscale_vegetable_farmer_who_just/e6xmuzu/"", ""retrieved_on"": 1539710090, ""convokit_id"": ""e6xmuzu""}"
+224,2e72d98c-379c-4619-944f-426231b8ed3a,val,please tell me you don't vote.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/news/comments/9d1lvm/elon_musk_calls_thailand_diver_child_rapist_in/e5f6rpz/"", ""retrieved_on"": 1538681055, ""convokit_id"": ""e5f6rpz""}"
+225,3de8aaab-0f9a-471a-bc28-5edafe267adc,val,are you russian orthodox by any chance?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskReddit/comments/9j1yrx/reddit_if_the_devil_punishes_bad_people_for_being/e6otk6y/"", ""retrieved_on"": 1539561975, ""convokit_id"": ""e6otk6y""}"
+226,9ab913e9-1dbc-4115-9d22-0e5305fb35bf,val,i think they are great!,n,neg_tfidf_00e65f8,,,
+227,c35c5088-8ac4-4308-87fe-74506f641cd4,val,sounds like real life politics here,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/skyrim/comments/9h24o5/the_jarls_if_skyrim_by_plumporange_at_deviantart/e6bd6cn/"", ""retrieved_on"": 1539326607, ""convokit_id"": ""e6bd6cn""}"
+228,b98c9a42-abe9-4639-8375-28fbc7e51572,val,and you what are you what are you do for a living,n,neg_tfidf_00e65f8,36b,,
+229,ff5e72c3-644b-433b-9a02-9d451f484832,val,oh u talkin about the character not the series?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Naruto/comments/9g3y9l/konan_vs_deidara/e621bf6/"", ""retrieved_on"": 1539102814, ""convokit_id"": ""e621bf6""}"
+230,f69e45c5-e81d-4676-b95e-36a29c954c9b,val,you sound like her.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9drfme/football_season_is_in_if_anyone_needs_to_make_a/e5p8lfk/"", ""retrieved_on"": 1538886844, ""convokit_id"": ""e5p8lfk""}"
+231,f78ccc6c-4e67-42e5-98bc-969677c9bc66,val,topic good and you,n,neg_tfidf_00e65f8,,,
+232,807c9c1f-93d3-4e18-953e-9a090a90a4de,val,stupid robot,n,neg_tfidf_00e65f8,24b,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/videos/comments/9cvx80/huge_typhoon_causing_damage_in_japan_today/e5faxqu/"", ""retrieved_on"": 1538682987, ""convokit_id"": ""e5faxqu""}"
+233,17375c9b-b216-45d6-9aa8-2da23b60bbb4,val,i m a people person.,n,neg_tfidf_00e65f8,,,
+234,e4025892-8706-4217-a6b2-2c500bd12384,val,hi nice to chat with you,n,neg_tfidf_00e65f8,,,
+235,11501925-3345-4047-9d23-b668dad374f6,val,i am a girl and i am poor,n,neg_tfidf_00e65f8,,,
+236,e9683341-1c39-4bbc-88d4-3e30092cf299,val,vikings cannot have dogs becuase they are not good at finding dragons.,n,neg_tfidf_00e65f8,,,
+237,2391f478-4544-48fe-9367-5d903cf67e73,val,just a walking cringe machine lol.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9cf1p9/ted_cruz_trying_to_use_his_daughter_for_a_photo_op/e5c4sle/"", ""retrieved_on"": 1538629703, ""convokit_id"": ""e5c4sle""}"
+238,f1fc4e5c-bc53-4001-98ed-e1e51633722d,val,...what? do you think i'm not a woman or...?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskMen/comments/9ij38g/if_womens_advantages_in_dating_come_from_them/e6kvsoj/"", ""retrieved_on"": 1539495790, ""convokit_id"": ""e6kvsoj""}"
+239,0ae11246-b9eb-417f-9cb0-6c467afc3844,val,i am studying for human anatomy right now,n,neg_tfidf_00e65f8,,,
+240,71624b8c-502e-472f-9878-701a6ffb736a,val,why? that does not make any sense.,n,neg_tfidf_00e65f8,,,
+241,7c59915e-fea2-42ca-9117-e62082040ecb,val,nice to chat with you,n,neg_tfidf_00e65f8,,,
+242,2c630a07-5094-4f55-ac87-ded9eb7805f4,val,i am smart.,n,neg_tfidf_00e65f8,,,
+243,fab7b7c5-5e31-4a9f-adc4-a83ad91f871c,val,"are you an actor, or something else?",n,neg_tfidf_00e65f8,,,
+244,89a98fdb-c0b2-43be-aeeb-c28e8476602d,val,lol wtf,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Music/comments/9chkys/nonmusic_video_hopsin_rapper_starting_from/e5caxf6/"", ""retrieved_on"": 1538632579, ""convokit_id"": ""e5caxf6""}"
+245,1bebeceb-38ac-4af7-9dd1-5d036b2752b4,val,i am great. i just was texting my boss.,n,neg_tfidf_00e65f8,,,
+246,3d73633d-e7f6-4525-b2c3-fbb778f3f8fb,val,"pretty good actually, how are you?",n,neg_tfidf_00e65f8,,,
+247,0d6a866a-3757-41b7-adb2-d81465fbe95f,val,were u the coach or more of an assistant,n,neg_tfidf_00e65f8,,,
+248,b5d88f32-0c69-4585-bb98-d4c188559a9c,val,"okay, nice to chat with you.",n,neg_tfidf_00e65f8,,,
+249,4a7f9d6e-280e-4a4b-9132-df70d440cac0,val,nice! where are you living?,n,neg_tfidf_00e65f8,,,
+250,2d1a307f-f701-4ecc-bc8d-c7f359a8af1b,val,i am confused.,n,neg_tfidf_00e65f8,,,
+251,94e4779f-147f-4e2a-a925-269b9371537d,val,"but isn't ""fun"" an artificial trait you are enforcing upon sex too? there are people who view sex as an act of love, not fun. 
+that's where "" making love with my partner"" comes from.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/relationship_advice/comments/9ic5ly/is_it_promiscuity_31m_coming_to_grips_with_33f/e6iszj3/"", ""retrieved_on"": 1539460893, ""convokit_id"": ""e6iszj3""}"
+252,dfbe0702-478b-4401-86f0-a4a9ce70bb75,val,the only sound i need is the sound of rain!,n,neg_tfidf_00e65f8,,,
+253,3587c29d-c1d9-4059-ba75-60f497642ada,val,you mean the person using a standard phone to take the picture? all phone pictures have this resolution. people just scale it down on upload :p,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9fmyn7/as_promised_me_standing_in_front_of_a_puzzle/e5ydm7d/"", ""retrieved_on"": 1539041324, ""convokit_id"": ""e5ydm7d""}"
+254,ff7e9e5b-16d9-4a73-a3ed-97e32e1c61e6,val,no not really i was always good with computers,n,neg_tfidf_00e65f8,,,
+255,2df81cd1-71b4-4155-9471-53a3d73febd3,val,hi! where do you live?,n,neg_tfidf_00e65f8,,,
+256,55c2e14b-127d-4561-9b33-d8b07eaa86ef,val,nice chatting with you too.,n,neg_tfidf_00e65f8,,,
+257,40ee35f1-4bad-4d62-a692-f5aba51d2bbf,val,just admit you're are wrong instead of being salty.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskReddit/comments/9cs8xt/whats_technically_true_but_extremely_misleading/e5ed1em/"", ""retrieved_on"": 1538667187, ""convokit_id"": ""e5ed1em""}"
+258,534b8c5a-7851-4769-bb9f-b6e756b78772,val,you want to talk about it? i prefer texting to calling.,n,neg_tfidf_00e65f8,,,
+259,34b0a6ca-f0f0-434d-be9f-09d2a4ca27ec,val,wtf. why.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9ivub6/accidentally_texting_your_religious_aunt_instead/e6nen1a/"", ""retrieved_on"": 1539538249, ""convokit_id"": ""e6nen1a""}"
+260,de551643-c30e-4860-a995-8c26910f413b,val,oh boy do i!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/wow/comments/9iei27/the_very_bloody_fatterpillar/e6j6zmt/"", ""retrieved_on"": 1539467432, ""convokit_id"": ""e6j6zmt""}"
+261,a4eb3991-7aeb-4e53-a851-ec39f2e72c9d,val,so right now?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/apple/comments/9ih9bz/macos_mojave_release_today_all_the_new_features/e6k3so4/"", ""retrieved_on"": 1539482712, ""convokit_id"": ""e6k3so4""}"
+262,adaee547-2e15-46ea-9e8b-6a0b592d50a9,val,"music, computers... u?",n,neg_tfidf_00e65f8,,,
+263,42f19e6d-75a3-44fd-a211-40db389d0c8c,val,i am more of a movie person than a music person.,n,neg_tfidf_00e65f8,,,
+264,00aa64d1-5827-4c5d-ad21-3a8afa47097c,val,"you can tell your kid over and over again to not be gay. 
+
+i don't think that works. ",n,neg_tfidf_00e65f8,,,
+265,aed31c2f-e10a-4bba-8699-2a58db47e5c2,val,i would never admit to being french.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9jr9y9/just_bought_my_first_house_and_found_a_hidden/e6ukqr7/"", ""retrieved_on"": 1539658683, ""convokit_id"": ""e6ukqr7""}"
+266,c3ed2cf9-0a07-4864-b76c-9c9ca99bf62e,val,yeah-yeah,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/LifeProTips/comments/9jdu8x/lpt_if_someone_is_acting_out_or_crazy_some_day/e6rlmbl/"", ""retrieved_on"": 1539608680, ""convokit_id"": ""e6rlmbl""}"
+267,7ecbe470-f997-4811-a020-e5276ecc4e8d,val,"i guess, i guess it all depends on the person.",n,neg_tfidf_00e65f8,,,
+268,6a16e514-528d-4b95-bf03-02bfd10f0ccd,val,i'm just a dude playing a dude disguised as another dude!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MovieDetails/comments/9dpfzi/even_spiderman_disagrees_with_quill_on_thors/e5jnxis/"", ""retrieved_on"": 1538772053, ""convokit_id"": ""e5jnxis""}"
+269,825c7135-284a-4e10-985d-c76de8755240,val,i don't think that that is an actual photograph either.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9fhvas/you_dont_typically_see_this_part_of_earth/e5x1t34/"", ""retrieved_on"": 1539019033, ""convokit_id"": ""e5x1t34""}"
+270,3706bfeb-1f23-46e3-8dc8-6e6a4c211fd9,val,you are the 6%!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/todayilearned/comments/9gtgx7/til_when_severely_depressed_patients_were_treated/e66y20q/"", ""retrieved_on"": 1539185715, ""convokit_id"": ""e66y20q""}"
+271,8e909093-7346-4c22-ad8d-6941f55a2640,val,i am an animal doctor.,n,neg_tfidf_00e65f8,,,
+272,3d94819f-c961-412b-aa5e-3d8d59a1adf1,val,maybe. kids are something else,n,neg_tfidf_00e65f8,,,
+273,83cf49ea-0f3f-404a-ae4f-fbfbdf04e4b1,val,"or you're recognizing that even though somebody fucked up, or is new at their job, or countless other possibilities they are still a human being that soley gets paid through tips because it's a completely shit system and being a shit human being won't change that?",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AdviceAnimals/comments/9hywac/thatll_show_her/e6gy4zw/"", ""retrieved_on"": 1539429696, ""convokit_id"": ""e6gy4zw""}"
+274,b5ac7fa6-770b-492e-bff7-4cc986d9cac4,val,good. i am talking with my mom right you. you?,n,neg_tfidf_00e65f8,,,
+275,2aec167d-10c4-48c6-9455-9198d54cc1f2,val,humans are humans.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/WTF/comments/9dybw7/boop/e5l1pz7/"", ""retrieved_on"": 1538816403, ""convokit_id"": ""e5l1pz7""}"
+276,2f08ad85-ee76-49ff-995d-8d1bd1df1e3f,val,i have an android. i like both iphone and android. you?,n,neg_tfidf_00e65f8,,,
+277,c7d5e2b0-1be0-4858-b5c9-331d22159203,val,..f-for me?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MovieDetails/comments/9fkcn4/in_black_panther_klaue_considers_himself_a/e5xz3no/"", ""retrieved_on"": 1539034572, ""convokit_id"": ""e5xz3no""}"
+278,02f8f7a2-8011-48f1-8e68-3fbc98d930e0,val,sure. what do you want to know about me?,n,neg_tfidf_00e65f8,,,
+279,4645e6db-54ff-4411-85ac-56043bfcabde,val,then please tell my why you think that please,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Christianity/comments/9cd2gy/treating_a_homosexual_person_with_hate_instead_of/e5amj09/"", ""retrieved_on"": 1538604394, ""convokit_id"": ""e5amj09""}"
+280,99fce397-8877-41c2-b287-5b32754e7834,val,i think i have...,n,neg_tfidf_00e65f8,,,
+281,b70322f4-bd71-4eff-8e75-7d262f789a16,val,xbox has tonx of titteh armors. tf u talkin about,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/skyrim/comments/9geor9/was_in_the_middle_of_clockwork_and_this_guy_shows/e64ukfq/"", ""retrieved_on"": 1539150472, ""convokit_id"": ""e64ukfq""}"
+282,dccd356f-7f92-445b-993f-4b6c75a18e05,val,i am not. can you tell me more please?,n,neg_tfidf_00e65f8,,,
+283,842e2d75-0bd5-4cfb-b917-5cc76e95ba5a,val,oh that does not sound too good!,n,neg_tfidf_00e65f8,,,
+284,dd80265b-6acb-4ba8-89c4-be00f4867183,val,i am.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/electronic_cigarette/comments/9iqvtf/daily_questions_thread_09252018/e6mlnju/"", ""retrieved_on"": 1539524647, ""convokit_id"": ""e6mlnju""}"
+285,5eea95b5-9a7d-46ff-a990-b58ff39f3b8f,val,lmao!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AmItheAsshole/comments/9c2zi8/aita_for_publicly_shaming_a_girl_because_she/e5xdpx5/"", ""retrieved_on"": 1539024623, ""convokit_id"": ""e5xdpx5""}"
+286,5abfc1ea-cecf-46d5-a845-1f7a1f1312fc,val,"i do, however, it is a locked verizon phone. it is the moto z play droid. ",n,neg_tfidf_00e65f8,,,
+287,5aab21c4-9fff-43c3-9673-425f89f0919e,val,that does not sound good.,n,neg_tfidf_00e65f8,,,
+288,d6760d7b-7ee6-4e9d-9105-b5945708e1f1,val,why do you talk like that?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Bitcoin/comments/9j5qd2/but_they_cant_confiscate_your_bitcoin/e6pzfus/"", ""retrieved_on"": 1539581554, ""convokit_id"": ""e6pzfus""}"
+289,46602b0e-40d3-429e-a8fd-d2e77ad5a4c1,val,what is it like living with that?,n,neg_tfidf_00e65f8,,,
+290,ea7f3dff-c87c-4adf-9350-233acee11c65,val,"tell me about you, what is your favorite food?",n,neg_tfidf_00e65f8,,,
+291,519f3975-d8b0-47d6-870c-ef4de11b1b32,val,please tell me this works.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/australia/comments/9d5nit/today_while_riding_my_skateboard_i_was_victim_to/e5fzdw0/"", ""retrieved_on"": 1538694393, ""convokit_id"": ""e5fzdw0""}"
+292,5b10932a-e4d2-4165-bd9d-81c5ebfac9ab,val,just be yourself,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/OkCupid/comments/9je8jk/official_therapy_thursday/e6qowdr/"", ""retrieved_on"": 1539593435, ""convokit_id"": ""e6qowdr""}"
+293,0cf9bd05-b10c-45cd-84f8-ee42dd3b1e42,val,please!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/CFB/comments/9gl6jv/ohio_state_at_penn_state_929_will_kick_at_730_on/e6512lv/"", ""retrieved_on"": 1539153507, ""convokit_id"": ""e6512lv""}"
+294,5c58e6f4-ca85-403c-94d5-5ee0c8a9ecd5,val,ain't that the truth...,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Random_Acts_Of_Amazon/comments/9es5gy/nightly_hangout_thread_20180910/e5rdkn0/"", ""retrieved_on"": 1538922843, ""convokit_id"": ""e5rdkn0""}"
+295,29d38f2f-5519-43e3-9210-2cf5fae2de5f,val,yeah you're right.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gifs/comments/9ccppt/president_bush_slapping_president_obamas_butt/e5a3nek/"", ""retrieved_on"": 1538595502, ""convokit_id"": ""e5a3nek""}"
+296,0037a6c3-7ccb-4281-8e7c-63b7ec7edba5,val,but it's a dude...,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/WTF/comments/9fkq96/i_think_im_fine_nsfw/e5xioeu/"", ""retrieved_on"": 1539026893, ""convokit_id"": ""e5xioeu""}"
+297,83288a7c-25c9-4a0c-885e-c180745f1db8,val,i am an assistant for a vet. you?,n,neg_tfidf_00e65f8,,,
+298,da59a339-8027-4346-85fd-2241623d900e,val,you. i like you.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/atheism/comments/9hoazs/im_not_american_but_isnt_saying_one_nation_under/e6dwfkx/"", ""retrieved_on"": 1539372192, ""convokit_id"": ""e6dwfkx""}"
+299,a36539ca-89a0-452d-83f6-71c5b2d11243,val,if you know you know,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9c4wc2/mr_hands_over_here_on_a_nationally_televised/e58zdd8/"", ""retrieved_on"": 1538576717, ""convokit_id"": ""e58zdd8""}"
+300,3805faba-a29d-4da7-839b-2534894d6a7a,val,hello!,n,neg_tfidf_00e65f8,,,
+301,e397a9ef-21b9-487a-916f-f75981718686,val,bad bot,n,neg_tfidf_00e65f8,24b,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Libertarian/comments/9e4e1o/its_men_fault_women_dont_go_into_stem/e5m4gud/"", ""retrieved_on"": 1538834480, ""convokit_id"": ""e5m4gud""}"
+302,0dc99ae3-88c0-4ad5-87af-2112393ce624,val,i don´t think nothing.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/IAmA/comments/9h5oi0/im_a_catholic_bishop_and_philosopher_who_loves/e69s9wc/"", ""retrieved_on"": 1539300069, ""convokit_id"": ""e69s9wc""}"
+303,558e6d50-5f3c-4a9d-b4ec-5f748bed0eb9,val,"yes, that is how i am talking to you.",n,neg_tfidf_00e65f8,,,
+304,429845d5-7d88-4e78-8135-28379f451fed,val,fuck that,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AmItheAsshole/comments/9hwi5n/aita_and_was_this_a_racist_comment/e6fibq2/"", ""retrieved_on"": 1539405473, ""convokit_id"": ""e6fibq2""}"
+305,7039c226-ff2c-476c-8354-de60f795c861,val,you are absolutely correct!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/books/comments/9cbf77/what_book_have_you_thrown_in_the_towel_on/e59tkll/"", ""retrieved_on"": 1538590841, ""convokit_id"": ""e59tkll""}"
+306,b73f72a8-4599-4aa5-8e6f-eb3e54679ab8,val,do you enjoy voice work,n,neg_tfidf_00e65f8,,,
+307,ff090031-84eb-4d16-a690-aa50ed56c8c5,val,where are you from or live?,n,neg_tfidf_00e65f8,,,
+308,fbf8998b-5592-4de4-b373-9836ab104d1a,val,a happy person looking to have a great chat! !!,n,neg_tfidf_00e65f8,,,
+309,38ef81c5-bf55-4496-8631-4b39c6c6aaf0,val,"was the the high elf model? oracle, right?",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/DotA2/comments/9dyu8f/ice_frog_finally_decides_to_nerf_untouchable/e5lltlx/"", ""retrieved_on"": 1538825749, ""convokit_id"": ""e5lltlx""}"
+310,a183069d-f3f4-42e8-adc4-e07a3a55d700,val,"yes, for sure. do you like dogs by any chance?",n,neg_tfidf_00e65f8,,,
+311,67dab568-8b15-4fc3-8aac-82032c8bf034,val,"no, i haven't. obviously i understand that the point of the subreddit is to defend phone use. what i'm saying, is that their defense of phone use goes way too far. it's like they can't admit that being on your phone all the damn time is a bad thing, and that texting and calling can't replace real human interaction.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/teenagers/comments/9jbkbn/kids_depend_on_their_smartphones_too_much_these/e6qe1mo/"", ""retrieved_on"": 1539588337, ""convokit_id"": ""e6qe1mo""}"
+312,1aa22b44-de3c-46d9-80b2-e868afe7c856,val,is that what you do for a living,n,neg_tfidf_00e65f8,,,
+313,02d5d549-aa2c-4585-b772-3f50f55f9362,val,"okay, i'll admit that's fantastic ",n,neg_tfidf_00e65f8,,,
+314,2a0d28c5-3b69-419c-9511-8323a9430d73,val,you think? lmao,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gifs/comments/9gu0d3/shopping_for_a_high_chair/e67f849/"", ""retrieved_on"": 1539193861, ""convokit_id"": ""e67f849""}"
+315,1f1e8cff-1744-4a90-9e54-0d8bf82ce548,val,"marshawn lynch isn't a human being. i don't know what he is, but it's not human.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/electronic_cigarette/comments/9ete15/official_ecr_late_night_chat_thread_09102018/e5rgucg/"", ""retrieved_on"": 1538924334, ""convokit_id"": ""e5rgucg""}"
+316,6d15c3bb-7974-44c1-a291-631d7b2c282b,val,oh 2 sentences is a book to you? unsurprising.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gaming/comments/9irmaj/5_years_ago_my_wife_asked_me_to_make_a_game_about/e6mewd3/"", ""retrieved_on"": 1539521510, ""convokit_id"": ""e6mewd3""}"
+317,bd016a4d-9c45-4986-a8f4-6b8a464201b8,val,i am a virtual assistant from home,n,neg_tfidf_00e65f8,,,
+318,a34c77e7-5bbe-4ed0-b26b-e8a8a9e12127,val,please do! i would love to buy some :d,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pokemon/comments/9e7ps7/finally_finished_the_original_151_in_perler_beads/e5mwsrt/"", ""retrieved_on"": 1538847737, ""convokit_id"": ""e5mwsrt""}"
+319,79769b00-52ce-42ca-8dc8-e8d30b687c11,val,my kids are 7 and 8.  elf is a yearly tradition for us and i love it.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/movies/comments/9ch0hz/what_are_some_movies_that_had_no_right_being_as/e5bmzpu/"", ""retrieved_on"": 1538621445, ""convokit_id"": ""e5bmzpu""}"
+320,46ff47a8-cf4a-418c-a6dc-cb8e91b553bf,val,i'm a woman too.,n,neg_tfidf_00e65f8,,This is sort of like 23 and 12a but probably not,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/unitedkingdom/comments/9gk7lg/not_enough_support_for_male_abuse_victims/e65hwl3/"", ""retrieved_on"": 1539161410, ""convokit_id"": ""e65hwl3""}"
+321,48f40adb-694e-45a1-a0ac-e47f11f6b7fe,val,(i am just not a guy),n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/LifeProTips/comments/9cew50/lpt_if_your_partner_is_always_doing_something/e5d449a/"", ""retrieved_on"": 1538646218, ""convokit_id"": ""e5d449a""}"
+322,ccf7e422-b1ae-40a3-8fad-5e2d458b01a7,val,die hard and elf. every christmas eve for me.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/movies/comments/9ch0hz/what_are_some_movies_that_had_no_right_being_as/e5b634n/"", ""retrieved_on"": 1538613506, ""convokit_id"": ""e5b634n""}"
+323,b4e97bc6-b2e0-42f7-b86d-3e593a900c05,val,doesn’t look like a group text,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9ccei6/my_girlfriend_met_this_guy_yesterday_in_a_group/e5abe8b/"", ""retrieved_on"": 1538599113, ""convokit_id"": ""e5abe8b""}"
+324,e9d0cb70-a64e-4c3a-8b40-79b83595f5df,val,this person is talking about r/aganistgaymarriage.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/teenagers/comments/9cifzc/a_sub_i_like_is_being_brigaded/e5b3ffw/"", ""retrieved_on"": 1538612272, ""convokit_id"": ""e5b3ffw""}"
+325,695b239a-a70c-41b3-80d4-16920a2b328b,val,i know my computer has been doing that. why is that?,n,neg_tfidf_00e65f8,,,
+326,82d2568e-6fec-4605-91b2-87d4a0502e1d,val,it was nice chatting with you.,n,neg_tfidf_00e65f8,,,
+327,f221334c-6aae-4e19-bb72-04d69d8139b7,val,humans,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/magicTCG/comments/9h5p19/grn_selective_snare/e69e5n2/"", ""retrieved_on"": 1539293481, ""convokit_id"": ""e69e5n2""}"
+328,27b4db1a-fc32-4a97-aa46-6950bc501447,val,"to be sure the last thing i expected when purchasing android one phone is android auto issues. if not android one, then i don't know what to buy for everything to work.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Android/comments/9d3qny/til_android_one_officialy_doesnt_support_android/e5f8fzm/"", ""retrieved_on"": 1538681818, ""convokit_id"": ""e5f8fzm""}"
+329,00dc8d26-fed6-4f78-bfad-c1cdf0e49058,val,you sound fun,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/DotA2/comments/9hm3d5/the_kuala_lumpur_major_europe_qualifier_day_3/e6dx6gw/"", ""retrieved_on"": 1539372823, ""convokit_id"": ""e6dx6gw""}"
+330,f6dc1081-640f-4f3e-a3f6-85a167a8770e,val,i can’t even tell what this is meant to say,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9c4snh/buzz_aldrin_apollo_11/e58ji01/"", ""retrieved_on"": 1538569331, ""convokit_id"": ""e58ji01""}"
+331,b19ef3e9-c5c3-4af0-ac7f-0569785781d7,val,tell me something about you?,n,neg_tfidf_00e65f8,,,
+332,2acd11b2-2737-4461-bf62-c16c1edf16da,val,nope i am a human being why would you ask that,n,neg_tfidf_00e65f8,,,
+333,667cf618-0cd5-47e3-a67b-922edf7dc613,val,i work as a travel agent,n,neg_tfidf_00e65f8,,,
+334,536c407d-dfb8-4128-b432-6aad6ce57117,val,check out android one,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/IAmA/comments/9j35ry/i_am_dr_andy_yen_a_particle_physicist_who_left/e6ofltl/"", ""retrieved_on"": 1539555455, ""convokit_id"": ""e6ofltl""}"
+335,4c5649c3-5489-4d42-a5d0-989595fe8e3b,val,what is a darn? i love dogs,n,neg_tfidf_00e65f8,,,
+336,244839d5-9397-41ee-bb48-eb23e04de7b3,val,that's not true,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gifs/comments/9f62d8/were_just_gonna_put_that_riiiight_back_here/e5u805z/"", ""retrieved_on"": 1538970755, ""convokit_id"": ""e5u805z""}"
+337,33cebc1c-f868-4b2e-ad8d-6606fe196d58,val,same dude,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/teenagers/comments/9hffxn/oof_yeets_away/e6cah02/"", ""retrieved_on"": 1539342244, ""convokit_id"": ""e6cah02""}"
+338,40bd06fa-b6f3-4bf7-a5ad-9384e653d018,val,"is that it? if so, nice talking to you.",n,neg_tfidf_00e65f8,,,
+339,98aa52a7-31de-4442-aa5a-250cc3034a4f,val,you too,n,neg_tfidf_00e65f8,,,
+340,4849b092-835e-4223-a3de-7f614ded5a17,val,they're great for stealth texting at work.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Games/comments/9czlug/nintendo_of_america_on_twitter_you_and_a_friend/e5glk8x/"", ""retrieved_on"": 1538704740, ""convokit_id"": ""e5glk8x""}"
+341,6a55e192-b70b-42f3-9070-5cf293919af6,val,my parents do not talk to me. the only person i talk to is a therapist.,n,neg_tfidf_00e65f8,,,
+342,d0cb21bd-c3f9-46e2-911d-930888876848,val,i am about to be 0-3 my dude.,n,neg_tfidf_00e65f8,,"somwhat like 23, but probably not","{""possible_src"": ""reddit_small"", ""permalink"": ""/r/fantasyfootball/comments/9i99en/leonard_fournette_is_officially_out/e6huzam/"", ""retrieved_on"": 1539444992, ""convokit_id"": ""e6huzam""}"
+343,477e9796-3e46-4eb2-9ac8-e7e75107d85b,val,"no, you can tell me about it",n,neg_tfidf_00e65f8,,,
+344,4d0af147-00e7-4739-88d3-4811effa0cfd,val,this isn't a thing,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Diablo/comments/9gkjam/grinding_for_primals/e64yy8q/"", ""retrieved_on"": 1539152552, ""convokit_id"": ""e64yy8q""}"
+345,1cf1f275-4bce-4162-917f-6b0012ab9eed,val,pls yes.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/baseball/comments/9foxiq/angels_looking_to_extend_trout_for_life/e5ywc8e/"", ""retrieved_on"": 1539050085, ""convokit_id"": ""e5ywc8e""}"
+346,354084c0-ee4d-4cc1-a692-23d9f8a9d8b3,val,what do you do if you do not mind me asking?,n,neg_tfidf_00e65f8,,,
+347,88553c75-0640-4ceb-b7ca-2aa9d002b029,val,but being weak at being a decent human being is pretty bad.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/leagueoflegends/comments/9ine9u/unbind_your_enter_key/e6ld0ok/"", ""retrieved_on"": 1539503805, ""convokit_id"": ""e6ld0ok""}"
+348,90f67c42-b0ac-4103-b7f9-b7e0ebf4b70c,val,"yes, i make robots",n,neg_tfidf_00e65f8,,,
+349,d16ce530-f8a8-43fb-84e2-ecab3802e5ff,val,so what are you do for a living?,n,neg_tfidf_00e65f8,,,
+350,f2717b9b-8c6e-43b6-bbea-68bb7a52da14,val,who the fuck is this elf?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/wow/comments/9e6vs5/it_is_astonishing_how_good_the_expansion_is/e5nfh35/"", ""retrieved_on"": 1538856426, ""convokit_id"": ""e5nfh35""}"
+351,2bbdd11a-f5ae-4d87-81e8-a339e889e815,val,"yeah, but i m not really a car person",n,neg_tfidf_00e65f8,,,
+352,6907b436-c057-485c-82ab-72787c36122b,val,why do you think that?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskReddit/comments/9f292i/serious_if_biblical_jesus_were_to_return_today/e5t9ou5/"", ""retrieved_on"": 1538954723, ""convokit_id"": ""e5t9ou5""}"
+353,e73d7849-b645-45ac-b651-e29096db71ec,val,damn right!,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/apple/comments/9f0q75/this_is_the_direct_stream_url_for_tomorrows_apple/e5tkft8/"", ""retrieved_on"": 1538959719, ""convokit_id"": ""e5tkft8""}"
+354,6f48e7f6-20ed-40cb-b378-e9f0ede35f50,val,if the one person can do that then you can,n,neg_tfidf_00e65f8,,,
+355,d958fa70-ebaa-42df-b35f-b45136afc018,val,"yup, but i may need to speak with an actual person, in person, to make further decisions",n,neg_tfidf_00e65f8,,,
+356,74ca8a54-1da3-4d89-aa83-1c9e78923d79,val,"no boys don’t have issues it’s impossible 
+
+/s",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MensRights/comments/9g19j5/imagine_if_this_was_done_with_a_girl/e60zny5/"", ""retrieved_on"": 1539085260, ""convokit_id"": ""e60zny5""}"
+357,3322f68e-675e-4b07-9100-2ac979507719,val,i think you’re right,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gaming/comments/9cv2zd/spore_turns_10_years_old_today_september_4_2008/e5e2kbw/"", ""retrieved_on"": 1538662307, ""convokit_id"": ""e5e2kbw""}"
+358,b9ebeb83-73de-48b3-89b4-7708a5bca6ea,val,i think you are right. thank you,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskMen/comments/9i1cx8/straight_men_how_do_i_get_over_being_afraid_of/e6g2npq/"", ""retrieved_on"": 1539414974, ""convokit_id"": ""e6g2npq""}"
+359,2f20c969-23d2-4609-b875-59db8e4d9eae,val,you have to realize what you're saying. that thing she doesn't want is a human being. you can't just discard a human being.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/IAmA/comments/9h5oi0/im_a_catholic_bishop_and_philosopher_who_loves/e69ht80/"", ""retrieved_on"": 1539295145, ""convokit_id"": ""e69ht80""}"
+360,de262030-601d-4a83-8d92-af6c24e7394e,val,my man.,n,neg_tfidf_00e65f8,38,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/todayilearned/comments/9dqixh/til_innout_managers_make_160000_per_year/e5jvwd0/"", ""retrieved_on"": 1538779366, ""convokit_id"": ""e5jvwd0""}"
+361,431c6d8d-ecfb-4d4a-a750-9a86063fe84a,val,helping people is my real love. thank you for chatting with me!,n,neg_tfidf_00e65f8,,,
+362,1200ce0e-4ac5-42eb-b778-eebe3ae6834c,val,"sometimes. but i meant the topic of this song is just a topic. he was amazingly creative with the topic, but it was just the topic. ",n,neg_tfidf_00e65f8,,,
+363,7169cd00-c7ba-4f7b-bfaa-2eee24ac90cb,val,"i am not, how about you?",n,neg_tfidf_00e65f8,,,
+364,1e45b66d-8ca9-4d47-97c1-b89f65fd95ab,val,no i am not.,n,neg_tfidf_00e65f8,,,
+365,896a02df-423d-4f30-a318-16cc18ccbf58,val,"just the real ones, not a big game person",n,neg_tfidf_00e65f8,,,
+366,14a9541d-bc8c-49a2-be49-28029062c75e,val,yeah...,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringe/comments/9i2n1c/pastor_says_deceased_first_husbands_name_when/e6h99xb/"", ""retrieved_on"": 1539434855, ""convokit_id"": ""e6h99xb""}"
+367,11b5cd87-a217-4822-ae4c-01af7a24edf1,val,please tell me more.,n,neg_tfidf_00e65f8,,,
+368,f301f5b0-f700-40aa-befb-4127dc458eb4,val,you don't seem to be responding to other comments. just mine.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Libertarian/comments/9dtk2j/urge_your_senators_to_oppose_any_prison_reform/e5kcjax/"", ""retrieved_on"": 1538794942, ""convokit_id"": ""e5kcjax""}"
+369,175a61ea-a643-460d-ac0b-ae1c0e48cf0e,val,yaml wouldn’t be considered human to machine?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/programming/comments/9h3upr/san_the_safe_and_nice_tomlyaml_alternative/e69bv1s/"", ""retrieved_on"": 1539292400, ""convokit_id"": ""e69bv1s""}"
+370,20d9efb4-98ca-4531-9971-c4f9f1140004,val,yeah i like working with computers. can you build one?,n,neg_tfidf_00e65f8,,,
+371,8b5d7bfa-36af-4597-91c8-84a4c1f32e26,val,"it’s dude, actually.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9cdwnj/this_person_left_their_phone_number_on_my_car/e5bt201/"", ""retrieved_on"": 1538624231, ""convokit_id"": ""e5bt201""}"
+372,3db4c639-7264-44f8-99d6-d5adedaafeee,val,what are you saying?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/politics/comments/9j0yts/amid_effort_to_ram_kavanaugh_through_senate_house/e6o9dol/"", ""retrieved_on"": 1539552541, ""convokit_id"": ""e6o9dol""}"
+373,5cf7a33e-36ea-4352-bc4f-4039701a4f65,val,i am also a woman.,n,neg_tfidf_00e65f8,,"This is maybe 12a, but then it requires the other turn to be the system saying it was a woman",
+374,79ca05c0-28e3-4bed-9aab-7a47320fb06b,val,if you think i'm trolling why are you responding?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Libertarian/comments/9dtk2j/urge_your_senators_to_oppose_any_prison_reform/e5kghym/"", ""retrieved_on"": 1538798588, ""convokit_id"": ""e5kghym""}"
+375,a63cb248-a645-47e9-8bc6-87382a1b9024,val,ok. if you want you can read to me now.,n,neg_tfidf_00e65f8,,,
+376,ffa59992-8714-4613-a48e-3ebcb7ee9061,val,"you already said it isn’t news. did you forget that? you’re repeating yourself. 
+
+plenty of what people call “news” is just gossip. ",n,neg_tfidf_00e65f8,,,
+377,4c869a1f-9daa-4c21-b177-e925648c295b,val,"damn, this is too real",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/leagueoflegends/comments/9dlufg/just_one_more_league_of_legends/e5ivuvj/"", ""retrieved_on"": 1538745762, ""convokit_id"": ""e5ivuvj""}"
+378,82714b54-e8f8-42d7-982d-05f2cdf088d4,val,i enjoy being on my computer.,n,neg_tfidf_00e65f8,,,
+379,7b393374-ec14-4e29-a833-8001cb49ad58,val,i am an older person.,n,neg_tfidf_00e65f8,,,
+380,1273a884-ab0f-4f61-828b-4f06349c652f,val,bot,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/starcraft/comments/9dxgi0/bcs_are_finally_getting_the_change_they_need/e5lbq1k/"", ""retrieved_on"": 1538821026, ""convokit_id"": ""e5lbq1k""}"
+381,c912aca8-ec2c-4699-b05c-ffcaadaa0d00,val,perfect. it was nice speaking with you!,n,neg_tfidf_00e65f8,,,
+382,111cd35a-e29e-4ed8-845f-a13aa3c62f7e,val,"so does stupidity, just not to the person speaking it.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/videos/comments/9emqbu/wonderful_postal_workers_strike_again/e5qmozn/"", ""retrieved_on"": 1538910217, ""convokit_id"": ""e5qmozn""}"
+383,8a86056a-b294-4e44-8863-5f96ba07981f,val,because you are so busy or you do not have a support system?,n,neg_tfidf_00e65f8,,,
+384,0c26806a-2898-47dc-bcca-fbd68444b217,val,and a sewing machine.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Games/comments/9hli3s/bloomberg_nintendo_is_at_least_five_years_behind/e6d79do/"", ""retrieved_on"": 1539359100, ""convokit_id"": ""e6d79do""}"
+385,b003e3b7-45a5-41b2-8be0-cc02063b77d8,val,that sounds like something i would like,n,neg_tfidf_00e65f8,,,
+386,1f082ff1-0839-40d8-ab64-ec7fc81ab726,val,you just described a virtual machine.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/programming/comments/9j6i6y/how_microsoft_rewrote_its_c_compiler_in_c_and/e6prtu7/"", ""retrieved_on"": 1539577987, ""convokit_id"": ""e6prtu7""}"
+387,7538607c-a293-4961-b0bf-1e6fff9d2298,val,this new one is more computer than car.,n,neg_tfidf_00e65f8,,,
+388,c45f0523-81a1-4387-8c0e-3e64fb4f9e48,val,so are you.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/todayilearned/comments/9h59ud/til_helen_keller_was_a_radical_socialist_who/e6bfbcx/"", ""retrieved_on"": 1539327625, ""convokit_id"": ""e6bfbcx""}"
+389,9f30375c-adcf-4dc9-8926-421c7c51ded4,val,so you were talking out your ass about something you knew nothing about?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/videos/comments/9jhdz4/a_video_from_my_ultralight_plane_crash_near_blyde/e6xq7cw/"", ""retrieved_on"": 1539711674, ""convokit_id"": ""e6xq7cw""}"
+390,66490b14-e990-4c45-9a27-768cad72ac52,val,"fuck, you're right.",n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/sex/comments/9cl2ru/whats_the_most_unexpectedly_pleasant_thing_a_ons/e5c6zrx/"", ""retrieved_on"": 1538630747, ""convokit_id"": ""e5c6zrx""}"
+391,a7ca9ab1-ac10-4c4c-87cd-9d5012e73a05,val,i actually love they have actual players on the show too.,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/nba/comments/9h85jb/serious_rachel_nichols_interview_of_mark_cuban_on/e6a979d/"", ""retrieved_on"": 1539307961, ""convokit_id"": ""e6a979d""}"
+392,c526410c-1069-45ae-9fba-cbd781198ba1,val,do you even need to ask the question?,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/unitedkingdom/comments/9ecoic/nextday_deliveries_could_become_thing_of_the_past/e5pso6k/"", ""retrieved_on"": 1538896225, ""convokit_id"": ""e5pso6k""}"
+393,faf54fd7-bdd9-4b44-ada9-10136a283e3e,val,i have a dog.,n,neg_tfidf_00e65f8,,,
+394,ef034af1-0a37-4aac-9591-c548d131fd3b,val,"they mention that intelligence is protective against alzheimer's and adhd. but isn't it possible that higher intelligence just sets the threshold of detection of these diseases higher?
+
+i mean, maybe it's not that intelligence people suffer less frequently from these diseases, but that the tests that detect them are influenced by the initial iq of the person. ",n,neg_tfidf_00e65f8,,,
+395,edfc836f-b039-4c1a-84c4-9385195ca53b,val,really! 😥😥😥,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Random_Acts_Of_Amazon/comments/9ib1el/activity_sarahah_please_dont_suck/e6ivynt/"", ""retrieved_on"": 1539462263, ""convokit_id"": ""e6ivynt""}"
+396,6af9e31e-477f-4072-b391-5209ab0900d9,val,hope you're right,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MMA/comments/9dm1yd/jre_mma_show_40_with_eddie_bravo/e5illxf/"", ""retrieved_on"": 1538738706, ""convokit_id"": ""e5illxf""}"
+397,a14b35ad-0397-4267-a2b3-e9b526d932df,val,you have to tell me,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/LifeProTips/comments/9jdu8x/lpt_if_someone_is_acting_out_or_crazy_some_day/e6ruzpg/"", ""retrieved_on"": 1539613037, ""convokit_id"": ""e6ruzpg""}"
+398,5dd9d7fd-c088-4319-a073-53b76e1ddd25,val,that is cool. i am a woman.,n,neg_tfidf_00e65f8,,,
+399,2c02fbd9-5334-4fd5-8387-345d7d6acca0,val,a cat,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/aww/comments/9fvioh/my_sister_meeting_my_new_kitten_banzai/e5zzrsq/"", ""retrieved_on"": 1539068502, ""convokit_id"": ""e5zzrsq""}"
+400,339372ed-668e-4607-a8e8-f746268a2092,val,is this real? please tell me its real,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/atheism/comments/9czn0z/vice_president_mike_pence_quotes_bible_in/e5f5jc3/"", ""retrieved_on"": 1538680477, ""convokit_id"": ""e5f5jc3""}"
+401,bae99fb1-77bb-4a88-a794-0007ae523069,val,"do whatever you like, man.",n,neg_tfidf_00e65f8,,,
+402,5b13ed39-60a9-4794-8aea-c37c6ca1b8ca,val,sure you are not. what is up?,n,neg_tfidf_00e65f8,,,
+403,35ebd915-c11b-4e83-aba5-bd9e2f579f85,val,it’s so weird,n,neg_tfidf_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/aww/comments/9jnuo6/his_favorite_sleeping_bag/e6ta77d/"", ""retrieved_on"": 1539636948, ""convokit_id"": ""e6ta77d""}"
+404,39abad21-b9ee-4b81-9df5-70847278b972,val,yes i donate. tell about ur family,n,neg_tfidf_00e65f8,,,
+405,8f961eab-cec8-4e40-8e00-669171cdbc0e,val,i have a job as an it agent.,n,neg_tfidf_00e65f8,,,
+406,ffe77340-4161-4fe7-a562-97644334026c,val,i like it. you be exactly who you are,n,neg_tfidf_00e65f8,,,
+407,d930a034-7e62-4d11-91bf-dbe8cadaeaec,val,i game on my computer a lot,n,neg_tfidf_00e65f8,,,
+408,14a1cf66-53d8-4876-b9ed-cc0027d00a01,val,good! just finished watching the flash.,n,neg_rand_00e65f8,,,
+409,397da29e-8d56-4503-b6d9-7a70a283f4fe,val,on my back three tattoos are there,n,neg_rand_00e65f8,,,
+410,5729be2a-7645-4dd0-aa26-742b1f93efca,val,that is okay for generations farms were inherited.,n,neg_rand_00e65f8,,,
+411,8ec5a442-8416-48ae-96dc-a9416da1745a,val,yum! my son owen loves vanilla.,n,neg_rand_00e65f8,,,
+412,67befbd6-ec1e-4b46-808f-7a18f0561137,val,"if getting from point a to point b *through* point c faster than light would have gotten from point a to point b in a straight line, i dont know what ftl travel is!",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/movies/comments/9gtt18/first_poster_for_scifi_thriller_prospect_starring/e67rntj/"", ""retrieved_on"": 1539199627, ""convokit_id"": ""e67rntj""}"
+413,5fd2b35a-7786-4135-a9f6-a5175fe69036,val,i like sprite soda.,n,neg_rand_00e65f8,,,
+414,031e822e-86db-40b9-83f1-27d3f491d9de,val,do you go hunting? dad has been on a hunting trip for a few days,n,neg_rand_00e65f8,,,
+415,09b9ca35-c54b-48f4-8a4e-5d0d8a0fc6bb,val,me too! we are planning to move to israel,n,neg_rand_00e65f8,,,
+416,12da03bd-fffe-4e96-9b3e-4ba30584411c,val,how dare he enjoy the fruits of his labor,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/asoiaf/comments/9hayf6/spoilers_extended_grrm_on_twow_at_the_emmys_im/e6amy5q/"", ""retrieved_on"": 1539314333, ""convokit_id"": ""e6amy5q""}"
+417,58395915-cfe2-415f-a8b2-3abada9b4f65,val,"no, sorry. i would love to volunteer to take care of their gardens and use my compost.",n,neg_rand_00e65f8,,,
+418,1649175b-1b53-41f0-9ea4-a79cff1d5092,val,so am i. when i am not studying i go to death metal concerts.,n,neg_rand_00e65f8,,,
+419,f5dea496-6ead-4a68-857a-5e20360ec8c2,val,"i'm not so bold that i would make the claim that we've not made any advances in the realm of falling off of things at high speeds, my main point is that he would not suffer and end-all fate from a fall.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/motorcycles/comments/9dweg0/i_met_this_knight_on_a_recent_motorcycle_trip_the/e5lrv7z/"", ""retrieved_on"": 1538828587, ""convokit_id"": ""e5lrv7z""}"
+420,52f844b0-a7ee-4e2c-aa4e-02b2e2e83795,val,they’ve been showing gameplay several times already.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Games/comments/9i6onn/death_stranding_new_footage_tgs_2018/e6hcpxa/"", ""retrieved_on"": 1539436480, ""convokit_id"": ""e6hcpxa""}"
+421,c369c444-c977-412c-a41b-3815c4bb2abe,val,i am alright do you like music?,n,neg_rand_00e65f8,,,
+422,80d1f66c-1a41-4810-971e-bc17dc094624,val,i have a few cons we can run. nothing big though,n,neg_rand_00e65f8,,,
+423,6b9b1a90-6580-452b-97fa-411fcc3f94a0,val,i do karaoke on fridays that is as close as i get to singing.,n,neg_rand_00e65f8,,,
+424,2eac5050-258a-45f5-ab28-322caa518862,val,i really have to go. i have to pick up my kid.,n,neg_rand_00e65f8,,,
+425,3b5b261a-f75a-4c6b-999b-6ee03a62558e,val,"oh yea, now i remember haha",n,neg_rand_00e65f8,,,
+426,78fd0af5-db3c-4f11-a2dc-a64e52bc5e26,val,that is absolutely great just fantastic,n,neg_rand_00e65f8,,,
+427,6db47f5f-e12e-4255-9b1f-4d6cd294b857,val,i do have two children. they are naughty.,n,neg_rand_00e65f8,,,
+428,62947e2f-3d1a-4641-904e-ef6ecc47f962,val,i had the same issues until i got a oneplus 3. there's nothing wrong with it. finally!,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Android/comments/9e6q40/why_cant_they_fix_this/e5npsx0/"", ""retrieved_on"": 1538861241, ""convokit_id"": ""e5npsx0""}"
+429,d19c0fdf-a9d9-4bda-83c6-a6aaac7d31ec,val,"not sure why the down votes. what? are you saying women can't learn how to  change out a flat? cooking, especially a good and healthy meal, is far more complicated than changing out a flat tire. will it make a difference if i told you i am a woman and can do both? ",n,neg_rand_00e65f8,,,
+430,c048723c-a66c-48b9-9454-32c6d5dc8047,val,japan. i moved here to teach high school about 12 years ago.,n,neg_rand_00e65f8,,,
+431,a1194c76-c1d4-4c44-b3c1-31f668ce7157,val,trade in about an hour?,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pokemontrades/comments/9ebhw1/ft_ll_codes_and_all_other_na_codes_also_pal_kg/e60m6jc/"", ""retrieved_on"": 1539078937, ""convokit_id"": ""e60m6jc""}"
+432,0b13071e-637a-4088-affe-2566e60dd5d5,val,"&gt;that's the beauty of atheism, if you have no qualms there's so much money to be made off the right wing nuts.
+
+it was quite the epiphany when i realized that no *sane* person who actually believed in a god would have the chutzpah to claim to speak for him. i often say that the pope is probably the most prominent atheist in the world.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/atheism/comments/9cu0d0/longterm_friend_handed_me_answering_atheism_and/e5dewfg/"", ""retrieved_on"": 1538651234, ""convokit_id"": ""e5dewfg""}"
+433,18bcc347-f4b4-4a16-a44b-8e0c4f3575dd,val,i build my own computers.,n,neg_rand_00e65f8,,,
+434,b17bf32b-132a-4e9d-b3ec-c20e5ec144f4,val,then prove facts for that please instead of your opinion.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cars/comments/9hbf6f/why_does_my_front_end_sort_of_bounce_when_i_fo/e6cafic/"", ""retrieved_on"": 1539342226, ""convokit_id"": ""e6cafic""}"
+435,c66b4e6a-a569-4797-983c-efa9c8304401,val,"you could just tell how incredibly uncomfortable she was, yet she maintained composure. her body language and her words were polar opposites.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringepics/comments/9c4wc2/mr_hands_over_here_on_a_nationally_televised/e5840ob/"", ""retrieved_on"": 1538562108, ""convokit_id"": ""e5840ob""}"
+436,2f8c8d17-198e-4cff-b08f-d104695bd188,val,i know they are great and this is a very important cause did you know in the first 2 months of 2018 1000 children were killed or injured becasue of intense violence?,n,neg_rand_00e65f8,,,
+437,6418cc97-fa83-4830-a9ae-8b45fb1ac33c,val,overshirts,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/malefashionadvice/comments/9j31a6/your_favorite_for_turtlenecks/e6o81wz/"", ""retrieved_on"": 1539551927, ""convokit_id"": ""e6o81wz""}"
+438,3866000f-fe35-4bc9-85f3-ede415a20157,val,no. dress codes that unfairly police girls' clothing more than boys' clothing is not the fault of the girls.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/TwoXChromosomes/comments/9jdaro/tennessee_high_school_ad_put_on_leave_after/e6r0hod/"", ""retrieved_on"": 1539598844, ""convokit_id"": ""e6r0hod""}"
+439,97a00ecd-e5a8-467c-821e-87240749b939,val,"it is my understanding the the affidavit was public record. 
+
+could you link the source for it being a “leak”?",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/news/comments/9foqzq/dallas_police_accused_of_smearing_man_killed_by/e5ycmdd/"", ""retrieved_on"": 1539040902, ""convokit_id"": ""e5ycmdd""}"
+440,f6d4d790-903e-4eb4-9899-438d3434bc5c,val,i read about tall men,n,neg_rand_00e65f8,,,
+441,fe202d9b-e0fa-42cd-b575-a9db09af3651,val,"then get rush for jungle or if there's somebody who is open, just not blank or blossom please",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/leagueoflegends/comments/9cs9zb/markz_and_kobe_insight_on_cody_sun_situation/e5d92st/"", ""retrieved_on"": 1538648542, ""convokit_id"": ""e5d92st""}"
+442,cee13821-c04a-4bd1-b5b3-f2db5ad84485,val,a clown like it? that is kind of creepy. do you float?,n,neg_rand_00e65f8,,,
+443,244fa20b-8149-4f6e-a6c4-3aae9a5758be,val,i listen to britney spears. all. day. long.,n,neg_rand_00e65f8,,,
+444,5fb68a3e-b329-4ed9-85d7-1456218afece,val,"that's actually the one i'd like to not give up, since i can only get the one d=",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pokemontrades/comments/9g8l3j/lf_battle_items_ft_ha_pokemon/e62skwk/"", ""retrieved_on"": 1539115527, ""convokit_id"": ""e62skwk""}"
+445,8e1952d8-ecc7-4f92-9d87-175b96fed4db,val,get me something tarty. god that killed me.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/books/comments/9cbf77/what_book_have_you_thrown_in_the_towel_on/e5axitv/"", ""retrieved_on"": 1538609549, ""convokit_id"": ""e5axitv""}"
+446,d10960ec-12a8-45c5-88ff-36cef7182c90,val,i hate their arrogance and they think with money they have it all.,n,neg_rand_00e65f8,,,
+447,7704217e-d360-4920-8a86-0652973f6440,val,are you sure about that? plenty of videos of people getting killed in china by flying roofs etc,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/gifs/comments/9gnl45/when_theres_a_typhoon_but_gym_is_life/e65vc1c/"", ""retrieved_on"": 1539167652, ""convokit_id"": ""e65vc1c""}"
+448,1f49803b-456f-4d66-b895-9943e62e6cb6,val,batista wasnt going to left hollywood to be a midcarter.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/SquaredCircle/comments/9frfks/zero_fucks_friday_wredditmod_goofed_again_edition/e5zy9dn/"", ""retrieved_on"": 1539067808, ""convokit_id"": ""e5zy9dn""}"
+449,9454fbc9-b4f5-45c6-b1ae-24b385f035bc,val,"can confirm, american here, think you're both looney toons",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/cringe/comments/9itezj/un_audience_laughs_at_donald_trump/e6mn8jn/"", ""retrieved_on"": 1539525418, ""convokit_id"": ""e6mn8jn""}"
+450,34cc3d1e-c4dd-47d7-adbe-dda231df07bb,val,"weekly healing thread.
+",n,neg_rand_00e65f8,,,
+451,20bcb56f-4d87-4f0d-842d-c87f538e6433,val,"the bible actually teaches that all political leaders are chosen by god and to obey them as if they were.
+
+source: used to be christian.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/atheism/comments/9gpyce/sarah_sanders_will_lie_for_trump_because_she/e66fvj0/"", ""retrieved_on"": 1539177238, ""convokit_id"": ""e66fvj0""}"
+452,5c3abda2-2b2a-4e5e-92dc-19b419941d0c,val,this whole set is very affordably priced. thanks for the tip!,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/MakeupAddiction/comments/9iohla/seeking_tips_on_1_minimizing_lines_and_2/e6lb538/"", ""retrieved_on"": 1539502956, ""convokit_id"": ""e6lb538""}"
+453,8766649b-7289-4396-aabd-2cc66f188cbf,val,you should talk to them again. they just had their second kid and they need a godfather for their first kid.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/nfl/comments/9eofrf/weekend_wrapup/e5qsfcc/"", ""retrieved_on"": 1538912866, ""convokit_id"": ""e5qsfcc""}"
+454,941592fe-26a6-4e91-aa65-3b4e36e8f748,val,paul alexander is awful. i'm sorry.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/nfl/comments/9gfcta/which_teams_are_you_surprised_are_20_and_02/e63rf9b/"", ""retrieved_on"": 1539132230, ""convokit_id"": ""e63rf9b""}"
+455,61e71517-a4d5-4ad4-ad65-e24899a3fdde,val,"i didn't say that. i said democrats also have their issues, and i disagree with many of their ideals. 
+
+better than we currently have? almost absolutely. as angelic as reddit seems to think? hell no. 
+
+the two party system is flawed all together. my team vs your team. we're all on the same fucking team you nitwits.
+
+and for being a reactionary little cunt trying to put words in my mouth, fuck you very much.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/worldnews/comments/9cxfic/president_trumps_former_top_economic_adviser_gary/e5eget2/"", ""retrieved_on"": 1538668724, ""convokit_id"": ""e5eget2""}"
+456,4c9a2b4a-01bb-4a3a-954d-2712c6bef4eb,val,"excellent. i love graphic design, that is what i am studying. i am usually late for class.",n,neg_rand_00e65f8,,,
+457,d8f0294d-12e1-44c4-8f2d-7146e6dfe531,val,that doesn’t work. it’s in the same place as search results,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/worldnews/comments/9fjsim/senior_google_scientist_resigns_over_forfeiture/e5xlnr4/"", ""retrieved_on"": 1539028319, ""convokit_id"": ""e5xlnr4""}"
+458,776ad3fc-3ab0-4769-b081-9ec98148bfa8,val,you really need to get a job. your mother's basement can't handle all of that fat inside of it.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/worldnews/comments/9f6syd/eu_approves_controversial_internet_copyright_law/e5ulrz6/"", ""retrieved_on"": 1538977142, ""convokit_id"": ""e5ulrz6""}"
+459,39e6ae91-da55-4e1d-b2bc-830bf805751c,val,ll... my sister madonna may do the job,n,neg_rand_00e65f8,,,
+460,31b1de92-87c1-49e9-aba2-0c8293a4a1f6,val,"nice - but some of them don't look as finished as the oneplus phones do. 
+
+[here's a bigger picture, btw](https://ic.tweakimg.net/ext/i/2001767477.jpeg)",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Android/comments/9drebb/google_has_contacted_a_handful_of_youtubers/e5kdjka/"", ""retrieved_on"": 1538796024, ""convokit_id"": ""e5kdjka""}"
+461,21050c27-930a-41b3-a6a2-78aa21610eb0,val,oh wow. now that is cool. are you married?,n,neg_rand_00e65f8,,,
+462,4d8e954c-a3df-4fdc-a538-605a348a881a,val,tha k you for my awareness,n,neg_rand_00e65f8,,,
+463,d76f0fc6-3e5a-49d7-a302-2c76e74802f2,val,"i'm subbed to him. i watch all of his non-hl stuff. the recent tf2 video was mostly community things. the closest thing to ""evidence"" that we got the was the saxxy winners going to valve. but we haven't heard a thing about it since.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/tf2/comments/9j5kgs/what_if_the_tf_team_pranks_us_all_and_make_the/e6ptkiq/"", ""retrieved_on"": 1539578780, ""convokit_id"": ""e6ptkiq""}"
+464,adfdead0-3cea-41b8-a25a-5ee106e3eca0,val,it is. you will be thankful for it one day.,n,neg_rand_00e65f8,,,
+465,e540da8e-bd39-48ad-9314-c8665119b6f3,val,it! that sounds interesting. i deal with french fries every day.,n,neg_rand_00e65f8,,,
+466,932846c8-42e9-4d1a-93f0-a445e5b8de4c,val,"remember horizon zero dawn? its engine is being used for this game. hzd had no downgrade, but actually had an upgrade. ",n,neg_rand_00e65f8,,,
+467,30c77098-2fd3-4cec-8259-132a7b237155,val,"oh, i do not know how to swim.",n,neg_rand_00e65f8,,,
+468,e49f4043-e9e1-4d85-9b67-53eb3a97657c,val,that is really cool. more exciting than my job,n,neg_rand_00e65f8,,,
+469,bfd5141f-c119-4bdf-b984-f0c2db9d2088,val,me too. my parents always said i was extremely social. any pets?,n,neg_rand_00e65f8,,,
+470,7322222e-2ec1-46ab-8311-73b2a608d0d5,val,oh muffin was your pet? my twin grandchildren have a cat named that.,n,neg_rand_00e65f8,,,
+471,78b6b1fc-d3e1-46f0-a40a-0f7466151e51,val,my mother used to be a teacher but at a school,n,neg_rand_00e65f8,,,
+472,e54761ec-8e6f-44ea-b70f-c1a0575e7391,val,"i like to think i am, but i am too depressed to do anything for myself",n,neg_rand_00e65f8,,,
+473,00532744-20d0-4de5-a23c-b70606727c6d,val,that is fun! i have two black labs.,n,neg_rand_00e65f8,,,
+474,b3fabede-8872-43e8-abc5-19c9f2b40d88,val,my wife is in a band called sonja,n,neg_rand_00e65f8,,,
+475,ba6be25d-d2da-437b-9864-139334bc2bba,val,"really doesn't look like it locked up, there wasn't a washout ",n,neg_rand_00e65f8,,,
+476,0f3ca4c6-fb58-44f1-b162-81ca6fb8c38f,val,"i always thought it would help to show wally's growth if he helped you out in the undersea cavern, which i think wasn't possible until gen 4 though, in addition to a few more battles before the last one in victory road. like after you beat norman he runs into you as you leave petalburg saying he had come home to show his parents how strong he's gotten, and that a battle with you would be the best way to do it. then you could swap out the lilycove battle to be against him instead of may/brendan. then you could add a may/brendan fight before victory road with a full fully evolved team. 
+
+",n,neg_rand_00e65f8,,,
+477,58df0eac-4aea-4448-a47f-b3243bae6078,val,can i ask whats the difference in education level? or is it the same?,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/singapore/comments/9iwlcc/rsingapore_random_discussion_and_small_questions/e6nbc74/"", ""retrieved_on"": 1539536685, ""convokit_id"": ""e6nbc74""}"
+478,4455ecdc-ff15-4525-bfe2-ea4a4980281e,val,apple pie is always good. i am looking forward to pumpkin pie for the holidays,n,neg_rand_00e65f8,,,
+479,67fc8365-36d9-4669-b704-afe7e7049520,val,how did he get to become a mod then?,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/electronic_cigarette/comments/9ei413/an_open_letter_to_the_mod_team/e5p6kd5/"", ""retrieved_on"": 1538885862, ""convokit_id"": ""e5p6kd5""}"
+480,dbad46bd-5936-4ea2-86d2-1a8b96c88385,val,i’m 48 and your mom is my hero. i hate to drive!,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AdviceAnimals/comments/9gnwkh/its_amazing_how_entitled_people_are/e65y1em/"", ""retrieved_on"": 1539168908, ""convokit_id"": ""e65y1em""}"
+481,317a858e-c041-426b-bc26-20fb4fbd8e94,val,"thats a good point, but i dont think humanity matters when we are talking about pest species. ",n,neg_rand_00e65f8,,,
+482,5438b039-0316-47ec-a259-71c7eb5421e6,val,that is really neat. i like wearing green.,n,neg_rand_00e65f8,,,
+483,73a4298f-5c95-4622-bc51-adb7fbf4f24d,val,could he do it via whatsapp?,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/pics/comments/9jlwmy/at_airport_just_handed_thischallenge_acceptedgood/e6skkgz/"", ""retrieved_on"": 1539624983, ""convokit_id"": ""e6skkgz""}"
+484,c8753998-205a-48c4-97e2-e4cdb59ee39e,val,"hello jason, my name is stan",n,neg_rand_00e65f8,,,
+485,a6e9f916-3286-4629-965a-ba356a87e834,val,i own a scar 16 and 17. i definitely would have purchased a bren 805 over a 16s but was sure the gen 2s would be out soon. i plan to keep my 16s and buy an 11 inch bren 2 to sbr.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/guns/comments/9j4xby/not_the_poor_mans_scar_16_any_longer/e6qbm65/"", ""retrieved_on"": 1539587198, ""convokit_id"": ""e6qbm65""}"
+486,db3c1bc6-6e7e-4976-b021-49910d4992fd,val,"so far you've told my the money goes to buy chips for kids in syria. if i wanted to be a part of the solution, i would contribute to an organization with a better plan.",n,neg_rand_00e65f8,,,
+487,7e9170cf-1227-4d5d-89eb-9f839787d567,val,"oh, are you a vegetarian? not me.",n,neg_rand_00e65f8,,,
+488,e54f5e9c-cfa5-4be7-9078-eea652df0fa8,val,"oh shit, that sucks.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/Games/comments/9fqca2/yami_yugi_joins_bandai_namcos_jump_force/e5zpr15/"", ""retrieved_on"": 1539063818, ""convokit_id"": ""e5zpr15""}"
+489,1f381a75-e24f-47c1-8be2-10e0ae9e7c22,val,"please don't hesitate to ask any questions. i am more than happy to provide information about our cause. 86% of our funding goes to  program services, 9% goes into fundraising meaning we get the word out about the charity and set up events. and just 5% goes to management and general things. here is a link that breaks down all our costs and the donations we receive.  url s/about-us/financial-information",n,neg_rand_00e65f8,,,
+490,bc942a5d-38b5-43a4-a3ea-50c8d19706ec,val,"i do not have any animals, but i like them. what is your favorite animal?",n,neg_rand_00e65f8,,,
+491,e7565446-3543-4bb1-960b-d8027a3b870e,val,"maybe the ""get updates from neighbor pcs"" option was active and there was another - up2date pc - in the same lan.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/techsupport/comments/9cgmsj/urgent_windows_10_update_already_downloaded_and/e5alml8/"", ""retrieved_on"": 1538604014, ""convokit_id"": ""e5alml8""}"
+492,d1420b1c-b9c1-4534-8c9d-af45269f245f,val,i see. maybe do both at one time. jeremy wade does.,n,neg_rand_00e65f8,,,
+493,f2658ce8-60b1-4175-98d6-4ce24452b50b,val,sorry to hear that. playing around with them on the computer is great fun,n,neg_rand_00e65f8,,,
+494,f2543273-ff7c-40c3-83c4-939521534e23,val,"as long as you never, ever watch a yano march. or the bucks decide to have a ""no bump"" match again you should scream about how that's ""killing the business"" on twitter until the butthurt goes away.
+
+it's a show. it's always been slightly cheesy, why else would everyone love it so much. but to pretend that it's a 100% competitive sport and anything even slightly cheesy or comedic is anathema is just silly. 
+
+if you hate comedy wrestling, don't watch it, it's not for you. but for god's sake take a step off the ledge because it's not killing anything.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/SquaredCircle/comments/9jn6t4/that_time_when_that_bald_motherfuckers_ass_got/e6tbajj/"", ""retrieved_on"": 1539637463, ""convokit_id"": ""e6tbajj""}"
+495,305a66ef-da29-4bf4-b17b-19fe01260115,val,"oh yea i heard this when i was a teen and have never unheard it since, it really makes my life a drag.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/videos/comments/9hc9ke/long_time_professional_producer_turned_youtuber/e6bz3nm/"", ""retrieved_on"": 1539336834, ""convokit_id"": ""e6bz3nm""}"
+496,001f38ec-2ca4-45bf-ad09-391dbc0445e1,val,i like whats on trend i need to fit in. what is it like being a mortician?,n,neg_rand_00e65f8,,,
+497,9330243b-32d5-4179-a5f1-da8667b990cd,val,i have family in kentucky. love it there.,n,neg_rand_00e65f8,,,
+498,1913f163-37fd-4907-9cfa-3021bdd81756,val,i want to play music for a living. do you like music?,n,neg_rand_00e65f8,,,
+499,1f18c33a-dd0a-463e-b057-818d72e88512,val,"the term demigod isn’t correct but to answer your question yes. 
+
+god doesn’t hate people but the actions they take. when a woman committed adultery and was about to be stoned jesus stepped in to provide perspective while all the religious people wanted he dead. 
+
+i don’t know what you mean by sexist. many of the most important people in the bible are woman. one of the most important judges of israel and arguably the best was a woman. many books in the bible are named after woman. mother mary is almost god to many christians. 
+
+god killed and scattered the enemies of israel so that they wouldn’t be destroyed. god made a promise and never breaks those promises. 
+
+god said he loves you even if you don’t worship him but wants you to follow him so that you can have his plan in your life rather than trying to live life on your own with satan toying with you. 
+
+he gave his son to die brutally just so people can be saved and brought to heaven. 
+
+god doesn’t hate homosexuals but hates homosexuality. if this doesn’t make sense then what about this: i dislike rap as music but i don’t hate the people who make and sing rap. ",n,neg_rand_00e65f8,,This is vaguely 23,
+500,328d2f54-71eb-419d-b131-ba85e9456de8,val,a lot of 14 word rascists here down voting the truth,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/trees/comments/9gt4x7/cannabis_is_now_legal_for_personal_use_in_private/e67d9tr/"", ""retrieved_on"": 1539192922, ""convokit_id"": ""e67d9tr""}"
+501,7ee05506-ae12-4ece-b4b0-aa9a46013caf,val,"seed them then dry the peppers and add to a smoked salt.  
+grind the salt and use as normal.  
+adjust salt to pepper ratio to desired ass melting level.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/IAmA/comments/9ik1yw/im_chad_brauze_rd_chef_at_chipotle_i_oversee_the/e6ko8mk/"", ""retrieved_on"": 1539492257, ""convokit_id"": ""e6ko8mk""}"
+502,2b9e0f37-3174-4c3a-a139-28057944f5ab,val,black you should date a guy like me i will love you long time.,n,neg_rand_00e65f8,,,
+503,74030e70-d25b-4a45-b9a4-3da59ef17b2b,val,yes sounds lovely. . if i did not have cheer practice lol and family night,n,neg_rand_00e65f8,,,
+504,3679a0ee-39e9-45a8-b243-a4786c57ebc2,val,"almost all industry emission are direct, though.
+
+one third of industry direct emission is going to be a lot of emissions.
+
+&gt; no
+
+you said no, then stated that your argument was exactly what i said it was.  
+
+i'm sorry, but i'm not really finding this discussion to be useful.   i have to keep trying to correct bad information, and that's not good use of my time.  have a good life.  
+
+",n,neg_rand_00e65f8,,,
+505,2a03428f-91be-42bd-9100-37ed5af5382a,val,"but it's still not full hd in reality is it? especially when the notch will be there to make it even worse.
+
+but yeah, idk i think that's on apple for people thinking it's this bad. i do think it's concerning that way cheaper phones have way better specs basically across the board for way less (besides the cpu). 
+
+i agree the ut video was probably dumb to release if what you say is so, but if he actually believed this stuff (which i wouldn't be surprised considering anyone who isn't that knowing in screen stuff would too) then i can u derdtsnd his video. if he believed what he said then i think the video was fair in his perspective.",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/apple/comments/9imhiv/iphone_and_annoying_tech_youtubers/e6pmi6i/"", ""retrieved_on"": 1539575509, ""convokit_id"": ""e6pmi6i""}"
+506,7e7b66bf-cb8d-4923-940d-ba0c253f8b7c,val,yeah i have seen war for planet of the apes,n,neg_rand_00e65f8,,,
+507,ed1bc90d-0089-462a-b0d1-469af7f38c2c,val,"horizon zero dawn is the real golden treasure. 
+
+real question: wtf has xbox created for their console lately? ",n,neg_rand_00e65f8,,,
+508,175b3b3d-da9b-4d3b-a9e2-a4bba46d0945,val,recently got into sandal and sweatpant life. loving it though my instincts disagree.,n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/AskWomen/comments/9ephae/whats_the_dumbest_rule_your_parents_had_while/e5qu2pi/"", ""retrieved_on"": 1538913677, ""convokit_id"": ""e5qu2pi""}"
+509,308c55b5-c18b-461c-a61e-0e49650ec709,val,"yeah this has happened in my league, commissioner reversed it, no one cares. would be petty to get upset",n,neg_rand_00e65f8,,,"{""possible_src"": ""reddit_small"", ""permalink"": ""/r/fantasyfootball/comments/9jodmx/need_some_opinions_i_messed_up_dropped_josh/e6t0415/"", ""retrieved_on"": 1539632228, ""convokit_id"": ""e6t0415""}"
